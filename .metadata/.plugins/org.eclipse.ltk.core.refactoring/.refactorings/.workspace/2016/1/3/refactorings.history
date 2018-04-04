@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Copy (3) of Dendroid&apos; to &apos;Dendroid&apos;&#x0D;&#x0A;- Original element: &apos;Copy (3) of Dendroid&apos;&#x0D;&#x0A;- Renamed element: &apos;Copy (3) of Dendroid&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Copy (3) of Dendroid&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Copy \(3) of Dendroid" name="Dendroid" references="true" stamp="1452719457846" version="1.0"/>
+</session>

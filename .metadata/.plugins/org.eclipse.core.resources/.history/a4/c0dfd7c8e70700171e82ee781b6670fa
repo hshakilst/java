@@ -1,0 +1,22 @@
+package application;
+
+import java.net.URL;
+import java.util.ResourceBundle;
+
+import javafx.fxml.Initializable;
+
+public class ChemicalPurchase implements Initializable{
+	private int id;
+	private String tradingCompany;
+	private String date;
+	private long challan;
+	private double weight;
+	private double rate;
+	private double transportCost;
+	
+	@Override
+	public void initialize(URL location, ResourceBundle resources) {
+		
+	}
+
+}

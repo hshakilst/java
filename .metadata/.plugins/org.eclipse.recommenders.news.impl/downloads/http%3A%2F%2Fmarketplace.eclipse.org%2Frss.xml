@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>VIATRA</title>
+    <link>http://marketplace.eclipse.org/content/viatra</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/viatra_logo_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2015-04-15 11:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-03-17 12:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22eclipse.org%22&quot;&gt;eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/zujhelyi/listings&quot; title=&quot;Zoltan Ujhelyi&quot;&gt;Zoltan Ujhelyi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The VIATRA framework supports the development of model transformations with specific focus on event-driven, reactive transformations. Building upon the incremental query support of the EMF-IncQuery project, VIATRA offers a language to define transformations and a reactive transformation engine to execute certain transformations upon changes in the underlying model.&lt;/p&gt;
+&lt;p&gt;The VIATRA project provides:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An internal DSL over the Xtend language to specify both batch and event-driven, reactive transformations.&lt;/li&gt;
+&lt;li&gt;A complex event-processing engine over EMF models to specify reactions upon detecting complex sequences of events.&lt;/li&gt;
+&lt;li&gt;A rule-based design space exploration framework to explore design candidates as models satisfying multiple criteria.&lt;/li&gt;
+&lt;li&gt;A model obfuscator to remove sensitive information from a confidential model (e.g. to create bug reports).&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 15 Apr 2015 15:13:21 +0000</pubDate>
+ <dc:creator>zujhelyi</dc:creator>
+ <guid isPermaLink="false">2292729 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/viatra#comments</comments>
+  </item>
+  <item>
+    <title>Launch Configuration DSL</title>
+    <link>http://marketplace.eclipse.org/content/launch-configuration-dsl</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-03-17 07:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-03-17 10:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22SSI%20Sch%C3%A4fer%20IT%20Solutions%20GmbH%22&quot;&gt;SSI Schäfer IT Solutions GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mduft0h2/listings&quot; title=&quot;Markus Duft&quot;&gt;Markus Duft&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Launch Configuration DSL (LcDsl) allows to create and maintain launch configurations in Eclipse in a comfortable way. Along with LcDsl there comes a view that can be installed separately, that allows to manage and control launches in a convenient way, without the need to go through all the Eclipse dialogs.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 17 Mar 2017 11:04:50 +0000</pubDate>
+ <dc:creator>mduft0h2</dc:creator>
+ <guid isPermaLink="false">3348921 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/launch-configuration-dsl#comments</comments>
+  </item>
+  <item>
+    <title>Ctrlflow Code Search for Java</title>
+    <link>http://marketplace.eclipse.org/content/ctrlflow-code-search-java</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ctrlflow-logo_1.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2013-08-09 14:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-03-17 09:39&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Codetrails%20GmbH%22&quot;&gt;Codetrails GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cteamrav/listings&quot; title=&quot;Codetrails Team&quot;&gt;Codetrails Team&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 style=&quot;font-size:3em;&quot;&gt;Code Search. Redefined.&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Ctrlflow Code Search Professional&lt;/em&gt; finds code examples how to use an API – both in your workspace and in remote databases full of snippets for popular libraries.&lt;/p&gt;
+&lt;h2&gt;Find code snippets. Lightning fast and always a step ahead.&lt;/h2&gt;
+&lt;p&gt;Ctrlflow Code Search Professional provides fast and powerful code search for Java developers. Whether you need an example for for a method’s argument or one that references said method, or you’re looking for particular strings in the code, Code Search returns results in milliseconds.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;max-width: 600px;&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/ctrlflow-code-search-context-sensitive.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;All the search results at a glance. Starting with the ones that matter most.&lt;/h2&gt;
+&lt;p&gt;Ctrlflow Code Search Professional displays even large quantities of results in a clear and easily understandable way. Frequently-used code snippets are easy to spot thanks to the many aggregation options. And the powerful filter and sorting functions enable you to sort the results not just by project, package or class but also according to the frequency and usage of each snippet.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;max-width: 600px;&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/ctrlflow-code-search-clustered-results.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Code search directly in Eclipse. And far beyond.&lt;/h2&gt;
+&lt;p&gt;Ctrlflow Code Search Professional analyzes and indexes the codebase of your whole development environment. But that’s not all. You can also include thousands of code examples for popular libraries in your search. Code Search finds them with breathtaking speed as well. &lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;max-width: 600px;&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/ctrlflow-code-search-popular-frameworks.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;More Feature Highlights&lt;/h2&gt;
+&lt;ul style=&quot;line-height: 1.2em&quot;&gt;&lt;li style=&quot;padding: .2em&quot;&gt;Search for declarations, expressions &amp;amp; strings&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Search for method arguments&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Search for variable initializations&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Automatic code indexing in the background&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Filter and sorting functions&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Clustering of structurally-similar code examples&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Integrated source code preview and syntax highlighting&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;One-click search  (linked mode, search-as-you-type)&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;Example databases for popular libraries like Eclipse, Apache and more&lt;/li&gt;
+&lt;li style=&quot;padding: .2em&quot;&gt;&lt;a href=&quot;https://ctrlflow.com/manuals/codesearch/misc/changelog.html&quot;&gt;(Full changelog)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;img src=&quot;https://download.codetrails.com/marketplace-footer.png&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 09 Aug 2013 18:38:51 +0000</pubDate>
+ <dc:creator>cteamrav</dc:creator>
+ <guid isPermaLink="false">1082014 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ctrlflow-code-search-java#comments</comments>
+  </item>
+  <item>
+    <title>Google Cloud Tools for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/google-cloud-tools-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/GCP-Logo.png&quot; width=&quot;91&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-02 15:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-03-17 07:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Google%20Inc.%22&quot;&gt;Google Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/eharold/listings&quot; title=&quot;Elliotte Rusty Harold&quot;&gt;Elliotte Rusty Harold&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Cloud Tools for Eclipse is a Google-sponsored open source plugin that supports the Google Cloud Platform. Cloud Tools for Eclipse enables you to create, import, build, run, debug, and deploy Java servlet applications for the App Engine Standard environment without leaving Eclipse.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 02 Mar 2017 20:40:51 +0000</pubDate>
+ <dc:creator>eharold</dc:creator>
+ <guid isPermaLink="false">3321165 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/google-cloud-tools-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Unnecessary Code Detector</title>
+    <link>http://marketplace.eclipse.org/content/unnecessary-code-detector</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ucd_110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2008-03-13 10:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-16 18:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22J%C3%B6rg%20Spieler%22&quot;&gt;Jörg Spieler&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jspieler/listings&quot; title=&quot;Jörg Spieler&quot;&gt;Jörg Spieler&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;UCDetector (Unnecessary Code Detector) is a eclipse PlugIn tool to find unnecessary (dead) public java code.&lt;br /&gt;
+For example public classes, methods or fields which have no references.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 13 Mar 2008 14:12:02 +0000</pubDate>
+ <dc:creator>jspieler</dc:creator>
+ <guid isPermaLink="false">661 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/unnecessary-code-detector#comments</comments>
+  </item>
+  <item>
+    <title>AEM Developer Tools for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/aem-developer-tools-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2014-10-17 18:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-16 12:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Adobe%20Systems%20Inc%22&quot;&gt;Adobe Systems Inc&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rmunteanu/listings&quot; title=&quot;Robert Munteanu&quot;&gt;Robert Munteanu&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The AEM Developer Tools for Eclipse is a Eclipse plugin based on the Eclipse plugin for Apache Sling released under the Apache License 2.&lt;/p&gt;
+&lt;p&gt;Instructions: &lt;a href=&quot;http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html&quot;&gt;http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html&lt;/a&gt;&lt;br /&gt;
+Questions: &lt;a href=&quot;http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html&quot;&gt;http://help-forums.adobe.com/content/adobeforums/en/experience-manager-f...&lt;/a&gt;&lt;br /&gt;
+Issues: &lt;a href=&quot;https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues&quot;&gt;https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues&lt;/a&gt;&lt;br /&gt;
+Sources: &lt;a href=&quot;https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools&quot;&gt;https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 17 Oct 2014 22:25:01 +0000</pubDate>
+ <dc:creator>rmunteanu</dc:creator>
+ <guid isPermaLink="false">1979910 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/aem-developer-tools-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Andmore: Development Tools for Android™</title>
+    <link>http://marketplace.eclipse.org/content/andmore-development-tools-android%E2%84%A2</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/andmore.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2015-11-13 06:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-16 05:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Foundation%22&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kraev/listings&quot; title=&quot;Kaloyan Raev&quot;&gt;Kaloyan Raev&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Provides tools for Android development. Andmore is being developed under the Eclipse Foundation and is the successor of the Google ADT plugin and the Motorola MOTODEV plugin.&lt;/p&gt;
+&lt;p&gt;Andmore includes:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;JDT for Android Java applications.&lt;/li&gt;
+&lt;li&gt;CDT for C/C++ shared libraries.&lt;/li&gt;
+&lt;li&gt;Gradle tooling (details TBD)&lt;/li&gt;
+&lt;li&gt;Maven Build support via the M2E-Android Eclipse Plugin.&lt;/li&gt;
+&lt;li&gt;Ant support via the built in Eclipse support for ANT.&lt;/li&gt;
+&lt;li&gt;A fork of Google&#039;s ADT (Android Development Tools) plugins for Eclipse. These are maintained separately from Google&#039;s code line at AOSP, which will not be updated with any regularity.&lt;/li&gt;
+&lt;li&gt;The former MOTODEV Studio Plugins (now part of the Android Open Source Project) upgraded to work with ADT.&lt;/li&gt;
+&lt;li&gt;A p2 repository and product build using tycho.&lt;/li&gt;
+&lt;li&gt;Mylyn Reviews for Gerrit Review integration.&lt;/li&gt;
+&lt;li&gt;EGit for source code management.&lt;/li&gt;
+&lt;li&gt;GitHub Plugin from EGit for better collaboration with GitHub projects.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Android is a trademark of Google Inc.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 13 Nov 2015 11:33:36 +0000</pubDate>
+ <dc:creator>kraev</dc:creator>
+ <guid isPermaLink="false">2606339 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/andmore-development-tools-android%E2%84%A2#comments</comments>
+  </item>
+  <item>
+    <title>PHP Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/php-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/phplogo.png&quot; width=&quot;85&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2014-09-29 17:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-16 04:49&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dpakua/listings&quot; title=&quot;Dawid Pakula&quot;&gt;Dawid Pakula&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The PHP IDE project delivers a PHP Integrated Development Environment framework for the Eclipse platform. This project encompasses the development components necessary to develop PHP-based Web Applications and facilitates extensibility. It leverages the existing Web Tools Project in providing developers with PHP capabilities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Syntax Highlighting &lt;/li&gt;
+&lt;li&gt;Syntax Validation &lt;/li&gt;
+&lt;li&gt;Code Refactoring&lt;/li&gt;
+&lt;li&gt;Content Assist &lt;/li&gt;
+&lt;li&gt;Code Formatter &lt;/li&gt;
+&lt;li&gt;Quick Outline &lt;/li&gt;
+&lt;li&gt;Code Templates &lt;/li&gt;
+&lt;li&gt;Code Navigation&lt;/li&gt;
+&lt;li&gt;PHP Debugging&lt;/li&gt;
+&lt;li&gt;Composer Support&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;4.1 News &amp;amp; Noteworthy : &lt;a href=&quot;https://wiki.eclipse.org/PDT/NewIn41&quot;&gt;https://wiki.eclipse.org/PDT/NewIn41&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 29 Sep 2014 21:25:22 +0000</pubDate>
+ <dc:creator>dpakua</dc:creator>
+ <guid isPermaLink="false">1944539 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/php-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>WireframeSketcher Wireframing Tool</title>
+    <link>http://marketplace.eclipse.org/content/wireframesketcher-wireframing-tool</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sketch_80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2008-11-03 09:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-16 03:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22WireframeSketcher%22&quot;&gt;WireframeSketcher&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pseverinqw0/listings&quot; title=&quot;Peter Severin&quot;&gt;Peter Severin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;WireframeSketcher is a rapid wireframing tool that helps quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It comes both as a plug-in for any Eclipse IDE and a standalone version. With WireframeSketcher users can quickly gather useful feedback from stakeholders, show off their proposals to clients, share their ideas with fellow developers and in the end build better software. Install the 14 days free trial and test it for yourself.&lt;/p&gt;
+&lt;h3&gt;Some of the top features:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Extensive library of built-in controls for any type of UI. Stencils for Android, iPhone, iPad apps and more are available.
+&lt;/li&gt;&lt;li&gt;Hand-drawn look for wireframes. Your stakeholders won&#039;t be distracted by little details and you can focus on what’s important. Clean look is also available.
+&lt;/li&gt;&lt;li&gt;Create interactive prototypes. Present your prototypes in full-screen mode and click-through to show how the application or website is supposed work. Export your prototypes to clickable, high-quality PDF, or easily share them online in a few clicks.
+&lt;/li&gt;&lt;li&gt;More than 200 wireframing icons. Icons come in vector format, work at any size, can be colored, rotated, and embedded in any text.
+&lt;/li&gt;&lt;li&gt;Use components to create your own reusable bits. Easy inheritance mechanism lets you modify component&#039;s instance without breaking the link to its origin.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Download standalone version from our website: &lt;a href=&quot;http://wireframesketcher.com/download.html&quot;&gt;http://wireframesketcher.com/download.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://wireframesketcher.com/samples/Website.png&quot; width=&quot;500&quot; alt=&quot;Website wireframe created using WireframeSketcher&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 03 Nov 2008 14:15:53 +0000</pubDate>
+ <dc:creator>pseverinqw0</dc:creator>
+ <guid isPermaLink="false">801 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/wireframesketcher-wireframing-tool#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse XML Editors and Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-06-30 18:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-16 00:18&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Includes the XML, XML Schema, and DTD Editors and Tools, and XSL Developer Tools from the Eclipse Web Tools Platform project.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 30 Jun 2016 22:52:29 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2953952 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0#comments</comments>
+  </item>
+  </channel>
+</rss>

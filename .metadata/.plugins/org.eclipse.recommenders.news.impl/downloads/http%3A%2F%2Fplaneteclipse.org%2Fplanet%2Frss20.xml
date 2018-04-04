@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Eclipse</title>
+	<link>http://planeteclipse.org/planet/</link>
+	<language>en</language>
+	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
+
+<item>
+	<title>Eclipse Announcements: EclipseCon France: Last Chance to Submit!</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/gPuHBFNepMg/cfp</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/gPuHBFNepMg/cfp</link>
+	<description>March 29 is the final submission deadline for EclipseCon France. Visit the CFP page for info. See you in Toulouse this June!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/gPuHBFNepMg&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 17 Mar 2017 14:25:00 +0000</pubDate>
+</item>
+<item>
+	<title>Paolo Patierno: Vert.x and IoT in Rome : what a meetup !</title>
+	<guid isPermaLink="false">http://paolopatierno.wordpress.com/?p=4147</guid>
+	<link>https://paolopatierno.wordpress.com/2017/03/17/vert-x-and-iot-in-rome-what-a-meetup/</link>
+	<description>&lt;p style=&quot;text-align: justify;&quot;&gt;Yesterday I had a great day in Rome for a meetup hosted by &lt;a href=&quot;https://www.meetup.com/Meet-cast/&quot; target=&quot;_blank&quot;&gt;Meet{cast}&lt;/a&gt; (powered by &lt;a href=&quot;http://dotnetpodcast.com/&quot; target=&quot;_blank&quot;&gt;dotnetpodcast&lt;/a&gt; community) and &lt;a href=&quot;http://www.codemotionworld.com/&quot; target=&quot;_blank&quot;&gt;Codemotion&lt;/a&gt;, speaking about &lt;a href=&quot;http://vertx.io/&quot; target=&quot;_blank&quot;&gt;Vert.x&lt;/a&gt; and how we can use it for developing “end to end” Internet of Things solutions.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;17352445_10208955590111131_6229030843024604532_n&quot; class=&quot;alignnone size-full wp-image-4159&quot; src=&quot;https://paolopatierno.files.wordpress.com/2017/03/17352445_10208955590111131_6229030843024604532_n.jpg?w=620&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;17352567_10208955588791098_766816304298598626_n&quot; class=&quot;alignnone size-full wp-image-4161&quot; src=&quot;https://paolopatierno.files.wordpress.com/2017/03/17352567_10208955588791098_766816304298598626_n.jpg?w=620&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;I started with an high level introduction on Vert.x and how it works, its internals and its main usage then I moved to dig into some specific components useful for developing IoT applications like the MQTT server, AMQP Proton and Kafka client.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;17342690_10208955588751097_8818320599257580571_n&quot; class=&quot;alignnone size-full wp-image-4165&quot; src=&quot;https://paolopatierno.files.wordpress.com/2017/03/17342690_10208955588751097_8818320599257580571_n.jpg?w=620&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;17352571_10208955588951102_2851165399929439718_n&quot; class=&quot;alignnone size-full wp-image-4168&quot; src=&quot;https://paolopatierno.files.wordpress.com/2017/03/17352571_10208955588951102_2851165399929439718_n.jpg?w=620&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;It was interesting to know that even in Italy a lot of developers and companies are moving to use Vert.x for developing microservices based solutions. A lot of interesting questions came out … people seem to like it !&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Finally, in order to prove the Vert.x usage in enterprise applications I showed two real use cases that today work thanks to the above components : &lt;a href=&quot;https://www.eclipse.org/hono/&quot; target=&quot;_blank&quot;&gt;Eclipse Hono&lt;/a&gt; and &lt;a href=&quot;https://github.com/EnMasseProject/enmasse&quot; target=&quot;_blank&quot;&gt;EnMasse&lt;/a&gt;. I had few time to explain better how EnMasse works in details, the Qpid Dispatch Router component in particular and for this reason I hope to have a future meetup on that, the AMQP router concept is quite new today ! In any case, knowing that such a scalable platform is based (even) on Vert.x was a great news for the attendees.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;17264802_10208955590191133_8923182437405273553_n&quot; class=&quot;alignnone size-full wp-image-4170&quot; src=&quot;https://paolopatierno.files.wordpress.com/2017/03/17264802_10208955590191133_8923182437405273553_n.jpg?w=620&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;If you are interested to know more about that, you can take a look to the &lt;a href=&quot;https://www.slideshare.net/paolopat/reactive-internet-of-thins-the-vertx-way&quot; target=&quot;_blank&quot;&gt;slides&lt;/a&gt; and the &lt;a href=&quot;https://github.com/ppatierno/reactive-iot-vertx&quot; target=&quot;_blank&quot;&gt;demo&lt;/a&gt;. In the coming days, the video of the meetup will be available online but it will be in Italian (my apologies for my English only friends :-)). Hope you’ll enjoy the content !&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Of course, I had some networking with attendees after the meetup and … with some beer &lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;17310150_1421561734583219_8414988688301135801_o&quot; class=&quot;alignnone size-full wp-image-4191&quot; src=&quot;https://paolopatierno.files.wordpress.com/2017/03/17310150_1421561734583219_8414988688301135801_o.jpg?w=620&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/paolopatierno.wordpress.com/4147/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/paolopatierno.wordpress.com/4147/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=paolopatierno.wordpress.com&amp;amp;blog=15467422&amp;amp;post=4147&amp;amp;subd=paolopatierno&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 17 Mar 2017 10:45:11 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Congratulations to the Open IoT Challenge 3.0 Winners!</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/vfK7sx0arcc/openiotchallenge3_winners.php</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/vfK7sx0arcc/openiotchallenge3_winners.php</link>
+	<description>Eclipse IoT is pleased to announce the winners of the third annual Open IoT Challenge.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/vfK7sx0arcc&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 16 Mar 2017 15:15:00 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Tools 4.4.4.AM1 for Eclipse Neon.2</title>
+	<guid isPermaLink="true">https://tools.jboss.org/blog/4.4.4.am1-for-neon.2.html</guid>
+	<link>https://tools.jboss.org/blog/4.4.4.am1-for-neon.2.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Happy to announce 4.4.4.AM1 (Developer Milestone 1) build for Eclipse Neon.2.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Downloads available at &lt;a href=&quot;https://tools.jboss.org/downloads/jbosstools/neon/4.4.4.AM1.html&quot;&gt;JBoss Tools 4.4.4 AM1&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is New?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Full info is at &lt;a href=&quot;https://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.4.AM1.html&quot;&gt;this page&lt;/a&gt;. Some highlights are below.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;openshift-3&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#openshift-3&quot;&gt;&lt;/a&gt;OpenShift 3&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Although our main focus is bug fixes, we continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let’s go through a few interesting updates here and you can find more details on &lt;a href=&quot;https://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.2.AM1.html&quot;&gt;the What’s New page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;openshift-server-adapter-enhanced-flexibility&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#openshift-server-adapter-enhanced-flexibility&quot;&gt;&lt;/a&gt;OpenShift Server Adapter enhanced flexibility&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;OpenShift server adapter is a great tool that allows developers to synchronize local changes in the Eclipse workspace with running pods in the
+      OpenShift cluster. It also allows you to remote debug those pods when the server adapter is launched in Debug mode.
+      The supported stacks are Java and NodeJS.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;As pods are ephemeral OpenShift resources, the server adapter definition was based on an OpenShift service resource and the pods are then
+      dynamically computed from the service selector.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This has a major drawback as it allows to use this feature only for pods that are part of a service, which may be logical for Web based applications
+      as a route (and thus a service) is required in order to access the application.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;So, it is now possible to create a server adapter from the following OpenShift resources:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;service (as before)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;deployment config&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;replication controller&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;pod&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If a server adapter is created from a pod, it will be created from the associated OpenShift resource, in the preferred order:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;service&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;deployment config&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;replication controller&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;As the OpenShift explorer used to display OpenShift resources that were linked to a service, it has been enhanced as well.
+      It now displays resources linked to a deployment config or replication controller.
+      Here is an example of a deployment with no service ie a deployment config:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;server adapter enhanced&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/server-adapter-enhanced.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;So, as an OpenShift server adapter can be created from different kind of resources, the kind of associated resource is displayed when
+      creating the OpenShift server adapter:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;server adapter enhanced1&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/server-adapter-enhanced1.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once created, the kind of OpenShift resource adapter is also displayed in the Servers view:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;server adapter enhanced2&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/server-adapter-enhanced2.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This information is also available from the server editor:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;server adapter enhanced3&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/server-adapter-enhanced3.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;server-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-tools&quot;&gt;&lt;/a&gt;Server Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;api-change-in-jmx-ui-s-new-connection-wizard&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#api-change-in-jmx-ui-s-new-connection-wizard&quot;&gt;&lt;/a&gt;API Change in JMX UI’s New Connection Wizard&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;While hardly something most users will care about, extenders may need to be aware that the API for adding connection types to the &amp;amp;aposNew JMX Connection&amp;amp;apos wizard in the &amp;amp;aposJMX Navigator&amp;amp;apos has changed.  Specifically, the &amp;amp;aposorg.jboss.tools.jmx.ui.providerUI&amp;amp;apos extension point has been changed. While previously having a child element called &amp;amp;aposwizardPage&amp;amp;apos, it now requires a &amp;amp;aposwizardFragment&amp;amp;apos.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A &amp;amp;aposwizardFragment&amp;amp;apos is part of the &amp;amp;aposTaskWizard&amp;amp;apos framework first used in WTP’s ServerTools, which has, for a many years, been used throughout JBossTools. This framework allows wizard workflows where the set of pages to be displayed can change based on what selections are made on previous pages.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This change was made as a direct result of a bug caused by the addition of the Jolokia connection type in which some standard workflows could no longer be completed.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This change only affects adopters and extenders, and should have no noticable change for the user, other than that the below bug has been fixed.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;forge-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-tools&quot;&gt;&lt;/a&gt;Forge Tools&lt;/h3&gt;
+      
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;forge-runtime-updated-to-3-6-0-final&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-runtime-updated-to-3-6-0-final&quot;&gt;&lt;/a&gt;Forge Runtime updated to 3.6.0.Final&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The included Forge runtime is now 3.6.0.Final. Read the official announcement &lt;a href=&quot;http://forge.jboss.org/news/jboss-forge-3.6.0.final-is-here&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;startup&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/forge/images/4.4.4.AM1/startup.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 15 Mar 2017 21:50:44 +0000</pubDate>
+</item>
+<item>
+	<title>PapyrusUML: Papyrus-IC Research/Academia webinar</title>
+	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=538</guid>
+	<link>https://papyrusuml.wordpress.com/2017/03/15/papyrus-ic-researchacademia-webinar/</link>
+	<description>&lt;p&gt;On Friday, March 17th at 16:00 CET, 15:00 GMT, and 11:00 EDT, the Papyrus Industry Consortium’s (a.k.a. Papyrus-IC or, as I prefer, Me-IC) Research and Academia committee will host their third &lt;a href=&quot;https://wiki.polarsys.org/Papyrus_IC/Research_Academia/Webinars#Upcoming_webinars&quot; target=&quot;_blank&quot;&gt;webinar&lt;/a&gt; of the year. The topic is on an industry perspective on software product lines with speakers from Saab and Pure-Systems. See this &lt;a href=&quot;https://wiki.polarsys.org/Papyrus_IC/Research_Academia/Webinars&quot;&gt;link&lt;/a&gt; for the connection information.&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://papyrusuml.wordpress.com/category/uncategorized/&quot;&gt;Uncategorized&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godelicious/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/delicious/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gofacebook/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/facebook/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gotwitter/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/twitter/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gostumble/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/stumble/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godigg/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/digg/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/goreddit/papyrusuml.wordpress.com/538/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/reddit/papyrusuml.wordpress.com/538/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=papyrusuml.wordpress.com&amp;amp;blog=72365150&amp;amp;post=538&amp;amp;subd=papyrusuml&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 15 Mar 2017 17:19:31 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: EMF Support for Che – Day 4: Building Che</title>
+	<guid isPermaLink="false">http://eclipsesource.com/blogs/?p=27945</guid>
+	<link>http://eclipsesource.com/blogs/2017/03/15/emf-support-for-che-day-4-building-che/</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In this blog series, we share our experiences extending &lt;/span&gt;&lt;a href=&quot;http://eclipse.org/che&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Eclipse Che&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to add EMF support.. The &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2017/02/08/emf-support-for-che-day-0-motivation-and-getting-started/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;first post&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; covers our goals. In previous posts, we describe how to &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2017/02/23/emf-support-for-che-day-2-generating-code/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;add support for code generation&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2017/03/01/emf-support-for-che-day-3-adding-a-custom-workspace-stack/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;create a custom stack&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, which provides the framework for code generation out of the box.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;So far, we have not yet written any code to extend Che. We have used the concept of Che workspaces, which are Docker containers, to deploy additional tools (in our case the code generator). As the browser IDE allows to execute any command on the workspace runtime, we did not have to implement something to extend it so far.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;However, there are requirements, where enhancing the workspace is not sufficient. This is typically the case when you enhance the UI of the browser IDE with new features or you add new APIs into agents running within workspaces. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In this post, we will describe how to make a minor enhancement to the browser IDE with a simple “hello world” example. It is a good  first step to introduce the general process for extending Che. We will do more complex extensions in future blog posts.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We at EclipseSource have many years of experience in building extensions for the Eclipse IDE and in building Eclipse-based applications. So before we go into detail, let us summarize our experience in developing extensions for Che from a viewpoint of a desktop Eclipse IDE developer. We focus on the most obvious similarities and differences.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The similarity&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: Eclipse Che has an inherently extensible and flexible architecture. This is mainly due to a central pattern: Service-Orientation. There are several ways how this pattern is used for extensibility:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Che provides services to build up almost anything in the UI. As an example, there is a service to register the actions which are shown in the various menus. As another example, there is a service to register file extensions (defining icons and default editors). These services can be layered into complex UI objectives such as creating a perspective with different menus, panels, and layouts.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Che provides services to access resources (e.g. the source files) and the workspace runtime (e.g. to trigger commands). By using these existing features, it is fairly simple to add new features on top.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Che server is mainly a collection of RESTful services. By adding custom REST services to the server, you can easily enhance it. Thus custom services can then be consumed by custom extensions in the browser IDE.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Finally, Che defines service interfaces, which can be implemented by an extension to provide new things. As an example, you can implement a service, which implements the behavior to create a custom project type.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;The difference&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: There is currently no runtime plugin mechanism for the Che browser IDE comparable to what you are used to from the classic Eclipse IDE (a.k.a update sites/p2 repositories). This means, to extend Che, you need to build your custom version of it which contains your extensions and then deploy the full assembly somewhere. Technically, “plugins” in Che are maven modules, that you add to the global build during compile time. There is no runtime extensibility of the browser IDE. So, &lt;/span&gt;&lt;b&gt;isn’t this a step backwards&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; compared to the classic Eclipse IDE? There are different answers to this question, depending on the point of view:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;b&gt;No&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, because Che supports extensibility at runtime based on its workspace concept. If you miss any tool or runtime component, you can simply deploy it into your workspace and easily share it with co-workers. As an example, we enabled the EMF code generation only by extending the workspace at runtime (see &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2017/02/23/emf-support-for-che-day-2-generating-code/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;this post&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;). In the classic Eclipse IDE, everybody had to install the same things again (at least when not using Oomph). &lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;b&gt;Partially&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, as you cannot extend neither the browser IDE, nor the Che server at runtime, but only the workspace. However, Che has a different deployment scenario. As it is a client-server application, the idea is to do the set-up once in a central way and then share it for a group of developers, which require the same set of tools. This enables a very fast setup for developers on a project (pretty much like Oomph for classic Eclipse). It even enables to use different IDEs, which access the same workspace. However, it means more work for the author and maintainer of extensions, but a simpler life/set-up for the developers.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;b&gt;Yes&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, we miss OSGi, extension points and p2 repositories! Although OSGi and p2 have been criticized in the past, they are a very powerful combination to build up modular and extensible applications. This in combination with the great tooling provided by Eclipse made it possible to efficiently develop, install, update and deploy extensions to the IDE. This was probably one of the core factors to create such a huge ecosystem of tools. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So at the end, it really depends on the scenario and your design objectives. It is worth mentioning, that there is a general trend (also followed by Che) to move UI related parts of the IDE into server-side abstractions, so that they become independent. The language server protocol is a good example for this. In this scenario, an IDE only has to support to interpret the abstractions, e.g. the LSP. Therefore, client-site extensibility may become less important.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Anyways, let us get started with building Che locally.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2017/03/image02.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-27949&quot; height=&quot;157&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2017/03/image02.png&quot; width=&quot;618&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;First, you need install all the prerequisites to build and run Che. We already mentioned that you will need Docker, but there are a number of tools and environment settings needed for building Che.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;There are two ways to get started. We recommend to start headless, first, and follow the guide &lt;/span&gt;&lt;a href=&quot;https://github.com/eclipse/che/wiki/Development-Workflow#build-and-run-from-source&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;how to clone and build Che&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. As a second step, in case you want to use an IDE, we recommend the &lt;/span&gt;&lt;a href=&quot;https://www.eclipse.org/che/docs/plugins/setup-che-workspace/index.html&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Che workspace setup guide&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for an extensive overview.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We recommend to take the time to read the provided documentation carefully, as it contains useful information and lots of useful hints how to develop for Che. You should pay special attention to the “&lt;/span&gt;&lt;a href=&quot;http://www.gwtproject.org/articles/superdevmode.html&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Super Dev Mode&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;”, which allows hot code replacement for GWT applications and therefore drastically reduces the turnaround time when working on the browser IDE.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;There is also an option to build Che within a preconfigured Docker environment which will spare you the trouble of setting it up yourself. Finally, the building Che will take some time to complete even if you have a fast machine. Therefore, we recommend to take a close look at the options, which are described in detail &lt;/span&gt;&lt;a href=&quot;https://github.com/eclipse/che/wiki/Development-Workflow#build-and-run&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The build process will result into a number of artifacts, also called assemblies in Che terminology. You can find them within the “assembly” subdirectory. You can match the assemblies to the logical components of the Che architecture. Just compare the directory with the &lt;/span&gt;&lt;a href=&quot;http://www.eclipse.org/che/docs/#logical-architecture&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;architecture schema&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and the &lt;/span&gt;&lt;a href=&quot;http://www.eclipse.org/che/docs/plugins/assemblies/index.html#modules&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;modules overview&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After the build completed you can start Che on your local machine. The simplest way to do that is to navigate to the assembly/assembly-main/target/[che-version]/[che-version] directory and execute “bin/che.sh start”. A number of long messages should confirm the successful start of the services and point you to open localhost:8080 in your browser. If everything went well you will be greeted by the Che dashboard.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;So now that we can build check locally, let us do a very simple change to verify the build process. An example for such a simple change would be to add a project template to the browser IDE. Project templates can be instantiated by any user of the IDE. As we are working on EMF support, it would be useful to have an example EMF project as a template. We have already manually imported such a template from a Git repository in the &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2017/02/14/emf-support-for-che-day-1-run-che-and-import-existing-emf-project/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;second part of this blog series&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, which we will now add as a fixed template to our custom assembly.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Project templates are basically pointers to existing Git repositories. This enables to easily maintain the templates without re-distributing the IDE itself. The sample templates are maintained in the following file: &lt;/span&gt;&lt;/p&gt;
+
+&lt;pre lang=&quot;&quot;&gt;ide/che-core-ide-templates/src/main/resources/samples.json
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Let us add following snippet to this file:&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre lang=&quot;&quot;&gt;  {
+   &quot;name&quot;: &quot;emfforms-makeithappen-blank&quot;,
+   &quot;displayName&quot;: &quot;emfforms-makeithappen-blank&quot;,
+   &quot;path&quot;: &quot;/&quot;,
+   &quot;description&quot;: &quot;EMFForms, make it happen!&quot;,
+   &quot;projectType&quot;: &quot;java&quot;,
+   &quot;mixins&quot;: [],
+   &quot;attributes&quot;: {
+     &quot;language&quot;: [
+       &quot;java&quot;
+     ]
+   },
+   &quot;modules&quot;: [],
+   &quot;problems&quot;: [],
+   &quot;source&quot;: {
+     &quot;type&quot;: &quot;git&quot;,
+     &quot;location&quot;: &quot;https://github.com/eclipsesource/emfforms-makeithappen-blank&quot;,
+     &quot;parameters&quot;: {}
+   },
+   &quot;commands&quot;: [],
+   &quot;links&quot;: [],
+   &quot;category&quot;: &quot;Samples&quot;,
+   &quot;tags&quot;: [
+     &quot;maven&quot;,
+     &quot;java&quot;
+   ]
+ }
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Afterwards we need to stop the currently running che instance by executing “bin/che.sh stop”, rebuild Che and afterwards start it again using “bin/che.sh start”.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a result, the new project template will be available among the existing ones:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Of course, this was a very simple change, it did not even involve any coding. However, we are now prepared to do more complex changes and start coding. Please note, that in our example, we changed a configuration file of Che to add our custom project template. Those kind of extensions are usually done by invoking services, which allow to extend the base configuration of Che (in our case add a new project template). We will get back to this cleaner solution later in this series.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;When starting to code extensions for Che, those are typically placed in separated maven modules (i.e. plugins). This is conceptually pretty much like developing plugins for classic Eclipse. That means, the custom code will be separated from the core of Che. We will describe this more in detail in the next blog post of this series. As an example, we will create plugin, which registers a custom file type for “.ecore” including a custom icon.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;So stay tuned! &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note, that due to &lt;a href=&quot;https://www.eclipseconverge.org/na2017/&quot;&gt;Eclipse Converge&lt;/a&gt; and &lt;a href=&quot;https://devoxx.us/&quot;&gt;Devoxx US&lt;/a&gt;, the next post will be published in 3 weeks. Please note that we will give a &lt;a href=&quot;https://www.eclipseconverge.org/na2017/session/building-extension-eclipse-che-experience-report&quot;&gt;talk at Eclipse Converge about our experience with extending Che&lt;/a&gt;. So in case you haven’t already, please &lt;a href=&quot;https://www.eclipseconverge.org/na2017/registration&quot;&gt;register soon&lt;/a&gt;.&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are interested in learning more about the prototype for EMF support, if you want to contribute or sponsor its further development, or if you want support for creating your own extension for Che, please feel free to &lt;/span&gt;&lt;a href=&quot;mailto:munich@eclipsesource.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;contact us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;section&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding: 0em;&quot;&gt;
+&lt;div class=&quot;col2&quot;&gt;&lt;img alt=&quot;_MG_4540b2&quot; class=&quot;alignnone wp-image-23168&quot; height=&quot;86&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/uploads/2017/02/mathias.jpg&quot; width=&quot;129&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col10&quot;&gt;&lt;strong&gt;Co-Author&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;col10&quot;&gt;Mat Hansen&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;div style=&quot;display: inline-block;&quot;&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?source=webclient&amp;amp;text=EMF+Support+for+Che+%26%238211%3B+Day+4%3A+Building+Che&amp;amp;via=eclipsesource&amp;amp;url=http://eclipsesource.com/blogs/2017/03/15/emf-support-for-che-day-4-building-che/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;&lt;img alt=&quot;Twitter&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/twitter.png&quot; title=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://eclipsesource.com/blogs/2017/03/15/emf-support-for-che-day-4-building-che/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;+1&quot;&gt;&lt;img alt=&quot;Google+&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/google_plus.png&quot; title=&quot;Google+&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.linkedin.com/cws/share?url=http://eclipsesource.com/blogs/2017/03/15/emf-support-for-che-day-4-building-che/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on LinkedIn&quot;&gt;&lt;img alt=&quot;LinkedIn&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/linkedin.png&quot; title=&quot;LinkedIn&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://eclipsesource.com/blogs/2017/03/15/emf-support-for-che-day-4-building-che/&amp;amp;t=EMF+Support+for+Che+%26%238211%3B+Day+4%3A+Building+Che&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot;&gt;&lt;img alt=&quot;Facebook&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/facebook.png&quot; title=&quot;Facebook&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2017/03/15/emf-support-for-che-day-4-building-che/#respond&quot;&gt;Leave a Comment&lt;/a&gt;. Tagged with &lt;a href=&quot;http://eclipsesource.com/blogs/tag/che/&quot; title=&quot;che Tag&quot;&gt;che&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipse/&quot; title=&quot;eclipse Tag&quot;&gt;eclipse&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/che/&quot; title=&quot;che Tag&quot;&gt;che&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/eclipse/&quot; title=&quot;eclipse Tag&quot;&gt;eclipse&lt;/a&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 15 Mar 2017 13:53:41 +0000</pubDate>
+</item>
+<item>
+	<title>Christian Pontesegger: Fancy tooltips</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-3460102793186140898.post-807238025511157892</guid>
+	<link>http://codeandme.blogspot.com/2017/03/fancy-tooltips.html</link>
+	<description>I always liked the tooltips available in eclipse editors. Having a browser widget that may capture focus is nice to display more complex help topics in the UI. Unfortunately the eclipse implementation is heavily bound to editors and cannot be used for other parts.&lt;br /&gt;&lt;br /&gt;Well, up to now. For EASE I wanted to reuse these tooltips to display API documentation in a treeviewer. The result looks quite satisfactory:&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-HTnn_ef6tHw/WMksIhYbllI/AAAAAAAAA4Q/6vFNjiEvlFkoCCTPb-UGxqBteV3-kZuzwCLcB/s1600/tooltips.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;400&quot; src=&quot;https://3.bp.blogspot.com/-HTnn_ef6tHw/WMksIhYbllI/AAAAAAAAA4Q/6vFNjiEvlFkoCCTPb-UGxqBteV3-kZuzwCLcB/s400/tooltips.png&quot; width=&quot;327&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;I built some API to add these tooltips to any kind of SWT controls. While it may not be perfect it seems rather simple to use for me.&lt;br /&gt;&lt;pre class=&quot;brush: java&quot;&gt;  final HoverManager hoverManager = new HoverManager(parent);&lt;br /&gt;  hoverManager.addHover(fModulesComposite.getTreeViewer(), new IHoverContentProvider() {&lt;br /&gt;&lt;br /&gt;   @Override&lt;br /&gt;   public void populateToolbar(BrowserInformationControl control, ToolBarManager toolBarManager) {&lt;br /&gt;    // nothing to do&lt;br /&gt;   }&lt;br /&gt;&lt;br /&gt;   @Override&lt;br /&gt;   public String getContent(Object origin, Object detail) {&lt;br /&gt;    return &quot;&amp;lt;p&amp;gt;This is HTML content&amp;lt;/p&amp;gt;&quot;;&lt;br /&gt;   }&lt;br /&gt;  });&lt;br /&gt;&lt;/pre&gt;To see these tooltips in action &lt;a href=&quot;https://www.eclipse.org/ease/download/&quot; target=&quot;_blank&quot;&gt;get a nightly build of EASE&lt;/a&gt; and open the &lt;i&gt;Modules Explorer&lt;/i&gt; view.&lt;br /&gt;&lt;br /&gt;Now I am wondering if there is any interest in making this API available for other eclipse projects. &lt;br /&gt;When extracting the functionality I had to access some internal classes from org.eclipse.jface.text and JDT - mostly because of package private methods. Porting back these changes would be possible, still I am wondering if org.eclipse.jface.text would be the right place for it. Why should a generic view depend on jface.text just to get nice tooltip support?&lt;br /&gt;&lt;br /&gt;So lets see if there is interest in adopting this feature and where to put it.</description>
+	<pubDate>Wed, 15 Mar 2017 12:02:38 +0000</pubDate>
+	<author>noreply@blogger.com (Christian Pontesegger)</author>
+</item>
+<item>
+	<title>Dirk Fauth: OSGi Declarative Services news in Eclipse Oxygen</title>
+	<guid isPermaLink="false">http://blog.vogella.com/?p=7561</guid>
+	<link>http://blog.vogella.com/2017/03/15/osgi-declarative-services-news-in-eclipse-oxygen/</link>
+	<description>&lt;p&gt;With this blog post I want to share my excitement about the OSGi DS related news that are coming with Eclipse Oxygen. I want to use this blog post to inform about the new features and also the changes you will face with these. With Oxygen M6 you can already have a look at those features and also provide feedback if you find any issues.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+You don’t have to be a committer or contribute code to be part of an Open Source Community. Also testing new features and providing feedback is a very welcome contribution to a project. So feel free to participate in making the Eclipse Oxygen release even better than the previous releases!&lt;/p&gt;
+&lt;h2&gt;DS 1.3 with Felix SCR&lt;/h2&gt;
+&lt;p&gt;The Equinox team decided to drop Equinox DS (stuck with DS 1.2) and replace it with Felix SCR (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=501950&quot; target=&quot;_blank&quot;&gt;Bug 501950&lt;/a&gt;). This brings DS 1.3 to Eclipse which was the last missing piece in the OSGi R6 compendium in Equinox.&lt;/p&gt;
+&lt;p&gt;It was already possible to exchange Equinox DS with Felix SCR with Neon, but now you don’t need to replace it yourself, it is directly part of Equinox. There are some important things to notice though, which I will list here:&lt;/p&gt;
+&lt;h3&gt;Felix SCR bundle from Orbit&lt;/h3&gt;
+&lt;p&gt;The Felix SCR bundle included in Equinox/Eclipse is not equal to the Felix SCR bundle from Apache. The Apache bundle imports and exports the &lt;code&gt;org.osgi&lt;/code&gt; packages it requires, e.g. the component related interfaces like &lt;code&gt;ComponentContext&lt;/code&gt;, &lt;code&gt;ComponentFactory&lt;/code&gt; or &lt;code&gt;ComponentServiceObjects&lt;/code&gt;. It also contains the &lt;strong&gt;Promises API&lt;/strong&gt; used by Felix SCR, which was not available in Equinox before. The Felix SCR bundle in Orbit does not contain these packages. They are provided by other Equinox bundles, which are now required to use DS with Equinox.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+If you are interested in some more information about the reasons for the changes to the Orbit Felix SCR bundle, have a look at &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=496559&quot; target=&quot;_blank&quot;&gt;Bug 496559&lt;/a&gt; where Thomas Watson explained the reasons very nicely.&lt;/p&gt;
+&lt;p&gt;The bundles needed for DS in Equinox are now as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;org.apache.felix.scr&lt;/code&gt;&lt;br /&gt;
+The Declarative Services implementation.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;org.eclipse.osgi.services&lt;/code&gt;&lt;br /&gt;
+Contains the required OSGi service interfaces.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;org.eclipse.osgi.util&lt;/code&gt;&lt;br /&gt;
+Contains the &lt;strong&gt;Promises API&lt;/strong&gt; and implementation required by Felix SCR.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;org.eclipse.equinox.ds&lt;/code&gt; (optional)&lt;br /&gt;
+Wrapper bundle to start Felix SCR and provide backwards compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adding the &lt;strong&gt;Promises API&lt;/strong&gt; (see OSGi R6 Compendium Specification chapter 705) in Equinox is also a very nice, but worth its own blog post. So I will not go into more details here. The more interesting thing is that &lt;code&gt;org.eclipse.equinox.ds&lt;/code&gt; is still available and in some scenarios required. It does not contain a DS implementation anymore. It is used as a wrapper bundle to start Felix SCR and provide backwards compatibility. The main reasons are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Auto-starting DS&lt;br /&gt;
+The Equinox startup policy is to start bundles only if a class is accessed from them, or if it is configured for auto-starting. As the SCR needs to be automatically started but actually no one really accesses a class from it, every Eclipse application that makes use of Declarative Services configured the auto-start of &lt;code&gt;org.eclipse.equinox.ds&lt;/code&gt; in the &lt;em&gt;Product Configuration&lt;/em&gt;. If that bundle would be simply replaced, every Eclipse based product would need to modify the &lt;em&gt;Product Configuration&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Behavioral Compatibility&lt;br /&gt;
+Equinox DS and Felix SCR behave differently in some cases. For example Felix SCR deactivates and destroys a component once the last consumer, that references the component instance, is done with it. Equinox DS on the other hand keeps the instance (I explained that in my &lt;a href=&quot;http://blog.vogella.com/2017/02/13/control-osgi-ds-component-instances/&quot; target=&quot;_blank&quot;&gt;Control OSGi DS Component Instances&lt;/a&gt; blog post). As p2 and probably also other implementations rely on the Equinox behavior that components are not deactivated and destroyed immediately, the property&lt;p&gt;&lt;/p&gt;
+&lt;pre class=&quot;bz_comment_text&quot; id=&quot;comment_text_26&quot;&gt;ds.delayed.keepInstances=true&lt;/pre&gt;
+&lt;p&gt;is set automatically by &lt;code&gt;org.eclipse.equinox.ds&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Considering these changes it is also possible to remove &lt;code&gt;org.eclipse.equinox.ds&lt;/code&gt; from an Eclipse &lt;em&gt;Product Configuration&lt;/em&gt; and solely rely on &lt;code&gt;org.apache.felix.scr&lt;/code&gt;. You just need to ensure &lt;code&gt;org.apache.felix.scr&lt;/code&gt; is automatically started and &lt;code&gt;ds.delayed.keepInstances&lt;/code&gt; is set to &lt;code&gt;true&lt;/code&gt; (e.g. required when using p2 as described in &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=510673&quot; target=&quot;_blank&quot;&gt;Bug 510673&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;DS Console Commands&lt;/h3&gt;
+&lt;p&gt;If you want to inspect services via console, you need to know the new commands, as the old commands are not available anymore:&lt;/p&gt;
+&lt;table style=&quot;height: 403px;&quot; width=&quot;715&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equinox DS&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Felix SCR&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;list/ls&lt;br /&gt;
+[bundle-id]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;scr:list&lt;br /&gt;
+[bundle-id]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;List all components.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;component|comp&lt;br /&gt;
+&amp;lt;comp-id&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;scr:info&lt;br /&gt;
+&amp;lt;comp-id&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Print all component information.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;enable|en&lt;br /&gt;
+&amp;lt;comp-id&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;scr:enable&lt;br /&gt;
+&amp;lt;comp-name&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Enable a component.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;disable|dis&lt;br /&gt;
+&amp;lt;comp-id&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;scr:disable&lt;br /&gt;
+&amp;lt;comp-name&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Disable a component.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;enableAll|enAll&lt;br /&gt;
+[bundle-id]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Enable all components.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;disableAll|disAll&lt;br /&gt;
+[bundle-id]&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Disable all components.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Despite some different command names and the fact that the short versions are not supported, you should notice the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The scope (&lt;code&gt;scr:&lt;/code&gt;) is probably not needed in Equinox because there are by default no multiple commands with the same name. So only the command names after the colon can be used.&lt;/li&gt;
+&lt;li&gt;There are no equivalent commands to enable or disable all components at once.&lt;/li&gt;
+&lt;li&gt;To enable or disable a component you need to specify the &lt;span style=&quot;text-decoration: underline;&quot;&gt;name of the component&lt;/span&gt;, not the id that is shown by calling list before.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;DS 1.3 Annotations Support in PDE&lt;/h2&gt;
+&lt;p&gt;With Eclipse Neon the DS Annotations Support was added to PDE. Now Peter Nehrer (Twitter: @pnehrer) has contributed the support for DS 1.3 annotations. In the &lt;em&gt;Preferences&lt;/em&gt; you will notice that you can specify which DS specification version you want to use. By default it is set to 1.3. The main idea is that it is possible to configure that only DS 1.2 annotations should be used in case you still need to develop on that specification level (e.g. for applications that run on Eclipse Neon).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;PDE_DS_annotations_1.3&quot; class=&quot;aligncenter wp-image-7563 size-full&quot; height=&quot;437&quot; src=&quot;http://blog.vogella.com/wp-content/uploads/2017/03/PDE_DS_annotations_1.3.png&quot; width=&quot;610&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Preferences&lt;/em&gt; page also has another new setting “Add DS Annotations to classpath”, which is enabled by default. That setting will automatically add the necessary library to the classpath. While this is nice if you only implement a plain OSGi application, this will cause issues in case of Eclipse RCP applications that are build using Tycho. The JAR that is added to the classpath is located in the IDE, so the headless Tycho build is not aware of it! For Eclipse RCP development I therefore suggest to disable that setting and add &lt;code&gt;org.osgi.service.component.annotations&lt;/code&gt; as an optional dependency to the &lt;code&gt;Import-Package&lt;/code&gt; header as described in my &lt;a href=&quot;http://blog.vogella.com/2016/06/21/getting-started-with-osgi-declarative-services/&quot; target=&quot;_blank&quot;&gt;Getting Started&lt;/a&gt; tutorial. At least if the bundles should be build with Tycho.&lt;/p&gt;
+&lt;p&gt;As a quick overview, with DS 1.3 the following modifications to the annotations are available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Life cycle methods accept &lt;em&gt;Component Property Types&lt;/em&gt; as parameter&lt;/li&gt;
+&lt;li&gt;Introduction of the &lt;em&gt;Field Strategy&lt;/em&gt; which means &lt;code&gt;@Reference&lt;/code&gt; can be used for field injection&lt;/li&gt;
+&lt;li&gt;Event methods can get the &lt;code&gt;ComponentServiceObjects&lt;/code&gt; parameter type for PROTOTYPE scoped references, and there are multiple parameter type options for these methods&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Component#configurationPid&lt;/code&gt;&lt;br /&gt;
+multiple configuration PID values can be set and the value “$” can be used as placeholder for the name of the component&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Component#servicefactory&lt;/code&gt;&lt;br /&gt;
+deprecated and replaced by scope&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Component#reference&lt;/code&gt;&lt;br /&gt;
+specify &lt;em&gt;Lookup Strategy&lt;/em&gt; references&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Component#scope&lt;/code&gt;&lt;br /&gt;
+specify the service scope of the component&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Reference#bind&lt;/code&gt;&lt;br /&gt;
+specify the name of the bind event method of a reference&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Reference#field&lt;/code&gt;&lt;br /&gt;
+name of the field, typically not specified manually&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Reference#fieldOption&lt;/code&gt;&lt;br /&gt;
+specify how field values should be managed&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@Reference#scope&lt;/code&gt;&lt;br /&gt;
+specify the reference scope&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+For further information have a look at my previous blog posts where I explained these options in comparison to DS 1.2.&lt;/p&gt;
+&lt;p&gt;Although already in a very good shape, the DS 1.3 annotations are not finished 100% as of now. I already uncovered the following missing pieces:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Missing Require-Capability header in MANIFEST.MF (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=513216&quot; target=&quot;_blank&quot;&gt;Bug 513216&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Missing Provide-Capability header in MANIFEST.MF (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=490063&quot; target=&quot;_blank&quot;&gt;Bug 490063&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;False error when using bind/updated/unbind parameter on field references (&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=513462&quot; target=&quot;_blank&quot;&gt;Bug 513462&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IMHO it would be also nice if the necessary &lt;em&gt;p2.inf&lt;/em&gt; files are automatically created/updated to support &lt;a href=&quot;https://wiki.eclipse.org/Equinox/p2/Customizing_Metadata#Capability_Advice:&quot; target=&quot;_blank&quot;&gt;p2 Capability Advice&lt;/a&gt; configurations, which is necessary because p2 still does not support OSGi capabilities.&lt;/p&gt;
+&lt;p&gt;As stated at the beginning, you could help with the implementation by testing and giving feedback on this implementation. It would be very helpful to have more people testing this, to have a stable implementation in the Oxygen release.&lt;/p&gt;
+&lt;p&gt;Thanks to Peter for adding that long waiting feature to PDE!&lt;/p&gt;
+&lt;h2&gt;@Service Annotation for Eclipse RCP&lt;/h2&gt;
+&lt;p&gt;Also for RCP development there are some news with regards to OSGi services. The &lt;code&gt;@Service&lt;/code&gt; annotation, created by &lt;a href=&quot;https://tomsondev.bestsolution.at/&quot; target=&quot;_blank&quot;&gt;Tom Schindl&lt;/a&gt; for the &lt;a href=&quot;https://www.eclipse.org/efxclipse/index.html&quot; target=&quot;_blank&quot;&gt;e(fx)clipse project&lt;/a&gt;, has been ported to the Eclipse Platform (introduced &lt;a href=&quot;https://tomsondev.bestsolution.at/2014/12/15/eclipse-di-and-osgi-services-and-dynamics/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;When using the default Eclipse 4 injection mechanisms, the injection of OSGi services is limited to a unary cardinality. Given an OSGi service of type &lt;code&gt;StringInverter&lt;/code&gt; (see my previous tutorials) the injection can be done like this:&lt;/p&gt;
+&lt;pre class=&quot;brush: plain; title: ; notranslate&quot;&gt;public class SamplePart {
+
+    @Inject
+    StringInverter inverter;
+
+    @PostConstruct
+    public void postConstruct(Composite parent) {
+        ...
+    }
+}&lt;/pre&gt;
+&lt;pre class=&quot;brush: plain; title: ; notranslate&quot;&gt;public class SamplePart {
+
+    @Inject
+    @Optional
+    StringInverter inverter;
+
+    @PostConstruct
+    public void postConstruct(Composite parent) {
+        ...
+    }
+}&lt;/pre&gt;
+&lt;p&gt;This means:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Only a single service instance can get injected.&lt;/li&gt;
+&lt;li&gt;If the cardinality is MANDATORY (no &lt;code&gt;@Optional&lt;/code&gt;), a service instance needs to be available, otherwise the injection fails with an exception.&lt;/li&gt;
+&lt;li&gt;If the cardinality is OPTIONAL (&lt;code&gt;@Inject&lt;/code&gt; AND &lt;code&gt;@Optional&lt;/code&gt;) and no service is available at creation time, a new service will get injected when it becomes available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This behavior is similar to the DYNAMIC GREEDY policy for OSGi DS service references. But the default injection mechanism for OSGi services has several issues that are reported in &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=413287&quot; target=&quot;_blank&quot;&gt;Bug 413287&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If a service is injected and a new service becomes available, the new service will be injected, regardless of his service ranking. So even if the new service has a lower ranking it will be injected. Compared with the OSGi service specification this is incorrect as the service with the highest ranking should be used, or, if the ranking is equal, the service that was registered first .&lt;/li&gt;
+&lt;li&gt;If a service is injected and it becomes unavailable, there is no injection of a service with a lower service ranking. Instead &lt;code&gt;null&lt;/code&gt; will be injected, even if a valid service is still available.&lt;/li&gt;
+&lt;li&gt;If a service implements multiple service interfaces, only the first service key is reset.&lt;/li&gt;
+&lt;li&gt;If a service instance should be created per bundle or per requestor by using either a service factory or scope, there will be only one instance for every request, because the service is always requested via &lt;code&gt;BundleContext&lt;/code&gt; of one of the platform bundles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+I was able to provide a fix for the first three points. The last issue in the list regarding scoped services can not be solved for the default injection mechanism.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;@Service&lt;/code&gt; annotation was introduced to solve all these issues and additionally support the multiple cardinality (only MULTIPLE, not AT_LEAST_ONE).&lt;/p&gt;
+&lt;p&gt;To use it simply add &lt;code&gt;@Service&lt;/code&gt; additionally to &lt;code&gt;@Inject&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class=&quot;brush: plain; title: ; notranslate&quot;&gt;public class SamplePart {
+
+    @Inject
+    @Service
+    StringInverter inverter;
+
+    @PostConstruct
+    public void postConstruct(Composite parent) {
+        ...
+    }
+}&lt;/pre&gt;
+&lt;p&gt;The above snippet is similar to the &lt;em&gt;Field Strategy&lt;/em&gt; in OSGi DS. To get something similar to the &lt;em&gt;Event Strategy&lt;/em&gt; you would use method injection like in the following snippet:&lt;/p&gt;
+&lt;pre class=&quot;brush: plain; title: ; notranslate&quot;&gt;public class SamplePart {
+
+    StringInverter inverter;
+
+    @Inject
+    public void setInverter(@Service StringInverter inverter) {
+        this.inverter = inverter;
+    }
+    @PostConstruct
+    public void postConstruct(Composite parent) {
+        ...
+    }
+}&lt;/pre&gt;
+&lt;p&gt;With using the &lt;code&gt;@Service&lt;/code&gt; annotation on a unary reference, you get a behavior similar to the DYNAMIC GREEDY policy for OSGi DS service references, which is actually the same as with the default injection mechanism after my fix is applied. Additionally the usage of a service factory or scoped services is supported by using the &lt;code&gt;@Service&lt;/code&gt; annotation, as the &lt;code&gt;BundleContext&lt;/code&gt; of the requestor is used to retrieve the service.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+While writing this blog post there is an issue with the OPTIONAL cardinality in case no service is available at creation time. If a new service becomes available, it is not injected automatically. I created &lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=513563&quot; target=&quot;_blank&quot;&gt;Bug 513563&lt;/a&gt; for this and provided a fix for both, the Eclipse Platform and e(fx)clipse.&lt;/p&gt;
+&lt;p&gt;One interesting feature of the &lt;code&gt;@Service&lt;/code&gt; annotation is the support of the MULTIPLE cardinality. This way it is possible to get all OSGi services of a specific type injected, in the same order as in the OSGi service registry. For this simply use the injection on a list of the desired service type.&lt;/p&gt;
+&lt;pre class=&quot;brush: plain; title: ; notranslate&quot;&gt;public class SamplePart {
+
+    @Inject
+    @Service
+    List&amp;lt;StringInverter&amp;gt; inverter;
+
+    @PostConstruct
+    public void postConstruct(Composite parent) {
+        ...
+    }
+}&lt;/pre&gt;
+&lt;p&gt;Another nice feature (and also pretty new for e(fx)clipse) is the filter support. Tom introduced this &lt;a href=&quot;https://tomsondev.bestsolution.at/2017/01/12/making-service-annotation-even-cleverer/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. e(fx)clipse supports static as well as dynamic filters that can change at runtime. Because of dependency issues only the support for static filters was ported to the Eclipse Platform. Via &lt;em&gt;filterExpression&lt;/em&gt; type element it is possible to specify an LDAP filter to constrain the set of services that should be injected. This is similar to the &lt;em&gt;target&lt;/em&gt; type element of OSGi DS service references.&lt;/p&gt;
+&lt;pre class=&quot;brush: plain; title: ; notranslate&quot;&gt;public class SamplePart {
+
+    // only get services injected that have specified the
+    // value &quot;online&quot; for the component property &quot;connection&quot;
+    @Inject
+    @Service(filterExpression=&quot;(connection=online)&quot;)
+    List&amp;lt;StringInverter&amp;gt; inverter;
+
+    @PostConstruct
+    public void postConstruct(Composite parent) {
+        ...
+    }
+}&lt;/pre&gt;
+&lt;p&gt;With the &lt;code&gt;@Service&lt;/code&gt; annotation the Eclipse injection for OSGi services aligns better with OSGi DS. And with the introduction of DS 1.3 to Equinox the usage of OSGi services for Eclipse RCP applications should become even more a common pattern than it was before with using the Equinox only &lt;em&gt;Extension Points&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;For me the news on OSGi DS in the Eclipse Platform are the most interesting ones in the Oxygen release. But of course not the only ones. So I encourage everyone to try out the newest Oxygen milestone releases to get the best out of it for everyone!&lt;/p&gt;</description>
+	<pubDate>Wed, 15 Mar 2017 07:57:39 +0000</pubDate>
+</item>
+<item>
+	<title>Philip Wenig: Eclipse Hackathon Hamburg – March 2017</title>
+	<guid isPermaLink="false">http://openchrom.wordpress.com/?p=477</guid>
+	<link>https://openchrom.wordpress.com/2017/03/14/eclipse-hackathon-hamburg-march-2017/</link>
+	<description>&lt;p&gt;&lt;strong&gt;Eclipse Hackathons&lt;/strong&gt; are a great place to meet other &lt;strong&gt;Eclipse developers&lt;/strong&gt;!&lt;br /&gt;
+&lt;a href=&quot;https://wiki.eclipse.org/Hackathon_Hamburg_2017_Mar&quot; target=&quot;_blank&quot;&gt;https://wiki.eclipse.org/Hackathon_Hamburg_2017_Mar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openchrom.files.wordpress.com/2017/03/img_20170310_184629.jpg&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-large wp-image-478&quot; height=&quot;405&quot; src=&quot;https://openchrom.files.wordpress.com/2017/03/img_20170310_184629.jpg?w=640&amp;amp;h=405&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openchrom.files.wordpress.com/2017/03/img_20170310_203044.jpg&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-large wp-image-479&quot; height=&quot;331&quot; src=&quot;https://openchrom.files.wordpress.com/2017/03/img_20170310_203044.jpg?w=640&amp;amp;h=331&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.eclipse.org/Hackathon_Hamburg&quot; target=&quot;_blank&quot;&gt;https://wiki.eclipse.org/Hackathon_Hamburg&lt;/a&gt;&lt;/p&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=openchrom.wordpress.com&amp;amp;blog=25006439&amp;amp;post=477&amp;amp;subd=openchrom&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 14 Mar 2017 07:34:59 +0000</pubDate>
+</item>
+<item>
+	<title>Doug Schaefer: A Thought on a Componentized Future of IDEs.</title>
+	<guid isPermaLink="false">http://cdtdoug.ca/?p=838</guid>
+	<link>https://cdtdoug.ca/2017/03/13/a-thought-on-a-componentized-future-of-ides/</link>
+	<description>&lt;p&gt;If you haven’t heard of the Language Server Protocol and the language servers they inspire, take a Google around. There’s something very interesting happening here. &lt;span style=&quot;font-size: 1rem;&quot;&gt;The direction the LSP starts, and we’ve had discussions around a Debugger Server Protocol as well, opens the door to the componentization of IDEs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt; And this is quite different than the plug-in model we have with Eclipse. Instead of creating a UI platform and having plug-ins add menu items, preference pages, editors, views, etc., build your IDE from the other direction. Take a collection of components that don’t have UI, that implement IMHO the hard things about IDEs, language parsers, build systems, debugger frameworks, and wrap them with your own custom purpose IDE “shell”.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Eclipse suffers to a significant extent the “Tragedy of the Commons”. There is a large amount of inconsistency between plug-ins that do similar things but do it in different ways. Why is there a Perspective for every language? Because each language plug-in developer has different ideas on how the “Code” perspective should be laid out. And maybe, for their users, they’re right.&lt;/p&gt;
+&lt;p&gt;An alternative reality has language plug-in providers provide APIs that allow IDE builders to provide their own user experiences. Yes, that would be a lot more work and probably not practical. But as the doors open to a new generation of IDEs, language plug-in providers need to think about how they’d plug into many of them. It’s not clear which one will be the winner or even if there will be a winner.&lt;/p&gt;
+&lt;p&gt;It’s a brave new world. And we have a way to go before we figure it all out. But it’s a great time to think outside the box and see what sticks to the walls, or in my case, what I don’t erase from my whiteboard ;).&lt;/p&gt;</description>
+	<pubDate>Mon, 13 Mar 2017 15:56:08 +0000</pubDate>
+</item>
+<item>
+	<title>vert.x project: Data-driven Apps made easy with Vert.x 3.4.0 and headless CMS Gentics Mesh</title>
+	<guid isPermaLink="true">http://vertx.io/blog/data-driven-apps-made-easy-with-vert-x-3-4-0-and-headless-cms-gentics-mesh</guid>
+	<link>http://vertx.io/blog/data-driven-apps-made-easy-with-vert-x-3-4-0-and-headless-cms-gentics-mesh</link>
+	<description>&lt;article&gt;&lt;p&gt;In this article, I would like to share why Vert.x is not only a robust foundation for the &lt;a href=&quot;http://getmesh.io/&quot;&gt;headless Content Management System Gentics Mesh&lt;/a&gt; but also how the recent release 3.4.0 can be used to build a template-based web server with Gentics Mesh and handlebars.&lt;/p&gt;
+&lt;p&gt;A headless CMS focuses on delivering your content through an API and allows editors creating and managing that data through a web-based interface. Unlike a traditional CMS, it does not provide a specifically rendered output. The frontend part (the head) is literally cut off, allowing developers create websites, apps, or any other data-driven projects with their favourite technologies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vertx.io/blog/vert-x-3-4-0-is-released/&quot;&gt;Vert.x 3.4.0&lt;/a&gt; has just been released and it comes with a bunch of new features and bug fixes. I am especially excited about a small enhancement that changes the way in which the handlebars template engine handle their context data. Previously it was not possible to resolve Vert.x ‘s JsonObjects within the render context. With my enhancement &lt;a href=&quot;https://github.com/vert-x3/vertx-web/pull/509&quot;&gt;#509&lt;/a&gt; - released in Vert.x 3.4.0 - it is now possible to access nested data from these objects within your templates. Previously this would have required flattening out each object and resolving it individually, which would have been very cumbersome.&lt;/p&gt;
+&lt;p&gt;I’m going to demonstrate this enhancement by showing how to build a product catalogue using Vert.x together with handlebars templates to render and serve the web pages. The product data is managed, stored and delivered by the CMS server as source for JSON data.&lt;/p&gt;
+&lt;h2 id=&quot;clone-import-download-start-set-up-your-product-catalogue-website-quickly&quot;&gt;Clone, Import, Download, Start - Set up your product catalogue website quickly&lt;/h2&gt;
+&lt;p&gt;Let’s quickly set up everything you need to run the website before I walk you through the code.&lt;/p&gt;
+&lt;h3 id=&quot;1-clone-get-the-full-vert-x-with-gentics-mesh-example-from-github-https-github-com-gentics-mesh-vertx-example-&quot;&gt;1.  Clone - &lt;a href=&quot;https://github.com/gentics/mesh-vertx-example&quot;&gt;Get the full Vert.x with Gentics Mesh example from Github&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Fire up your terminal and clone the example application to the directory of your choice.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;git clone git@github.com:gentics/mesh-vertx-example.git&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;2-import-the-maven-project-in-your-favourite-ide&quot;&gt;2. Import - The maven project in your favourite IDE&lt;/h3&gt;
+&lt;p&gt;The application is set up as a maven project and can be imported in Eclipse IDE via File → Import → Existing Maven Project&lt;/p&gt;
+&lt;h3 id=&quot;3-download-get-the-headless-cms-gentics-mesh&quot;&gt;3. Download  -  Get the headless CMS Gentics Mesh&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://getmesh.io/Download&quot;&gt;Download the latest version of Gentics Mesh&lt;/a&gt; and start the CMS with this one-liner&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;java -jar mesh-demo-&lt;span class=&quot;hljs-number&quot;&gt;0.6&lt;/span&gt;.xx.jar&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For the current example we are going to use the read-only user credentials (&lt;em&gt;webclient:webclient&lt;/em&gt;).
+If you want to play around with the demo data you can point your browser to &lt;a href=&quot;http://localhost:8080/mesh-ui/&quot;&gt;http://localhost:8080/mesh-ui/&lt;/a&gt; to reach the Gentics Mesh user interface and use one of the &lt;a href=&quot;http://getmesh.io/docs/beta/getting-started.html#_startup&quot;&gt;available demo credentials&lt;/a&gt; to login.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive center-block&quot; src=&quot;http://vertx.io/assets/blog/vertx-mesh/mesh-ui.jpg&quot; title=&quot;Gentics Mesh User Interface&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4-start-the-application-and-browse-the-product-catalogue&quot;&gt;4. Start - The application and browse the product catalogue&lt;/h3&gt;
+&lt;p&gt;You can start the Vert.x web server by running Server.java.&lt;/p&gt;
+&lt;p&gt;That’s it - now you can access the product catalogue website in your browser: &lt;a href=&quot;http://localhost:3000&quot;&gt;http://localhost:3000&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;why-vert-x-is-a-good-fit-for-gentics-mesh&quot;&gt;Why Vert.x is a good fit for Gentics Mesh&lt;/h2&gt;
+&lt;p&gt;Before digging into the example, let me share a few thoughts on Vert.x and Gentics Mesh in combination. In this example Vert.x is part of the frontend stack in delivering the product catalogue website. But it might also be of interest to you that Vert.x is also used at the very heart of Gentics Mesh itself. The Gentics Mesh &lt;a href=&quot;http://getmesh.io/docs/beta/raml/&quot;&gt;REST API endpoints&lt;/a&gt; are built on top of Vert.x as a core component.&lt;/p&gt;
+&lt;p&gt;The great thing about Vert.x is that there are a lot of default implementations for various tasks such as authentication, database integration, monitoring and clustering. It is possible to use one or more features and omit the rest and thus your application remains lightweight.&lt;/p&gt;
+&lt;h2 id=&quot;curious-about-the-code-&quot;&gt;Curious about the code?&lt;/h2&gt;
+&lt;p&gt;Source: &lt;a href=&quot;https://github.com/gentics/mesh-vertx-example&quot;&gt;https://github.com/gentics/mesh-vertx-example&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now that everything is up and running let’s have a detailed look at the code.&lt;/p&gt;
+&lt;p&gt;A typical deployment unit for Vert.x is a &lt;a href=&quot;http://vertx.io/docs/vertx-core/java/#_verticles&quot;&gt;verticle&lt;/a&gt;. In our case we use the verticle to bundle our code and run the web server within it. Once deployed, Vert.x will run the verticle and start the HTTP server code.&lt;/p&gt;
+
+
+&lt;p&gt;The &lt;a href=&quot;http://getmesh.io/docs/beta/#_java_rest_client&quot;&gt;Gentics Mesh REST client&lt;/a&gt; is used to communicate with the Gentics Mesh server. The &lt;a href=&quot;http://vertx.io/docs/vertx-web/java/&quot;&gt;Vert.x web library&lt;/a&gt; is used to set up our &lt;a href=&quot;http://vertx.io/docs/vertx-web/java/#_basic_vert_x_web_concepts&quot;&gt;HTTP Router&lt;/a&gt;. As with other routing frameworks like &lt;em&gt;Silex&lt;/em&gt; and &lt;em&gt;Express&lt;/em&gt;, the router can be used to create routes for inbound HTTP requests. In our case we only need two routes. The main route which accepts the request will utilize the &lt;a href=&quot;http://getmesh.io/docs/beta/#_webroot&quot;&gt;Gentics Mesh Webroot API Endpoint&lt;/a&gt; which is able to resolve content by a provided path. It will examine the response and add fields to the routing context.&lt;/p&gt;
+&lt;p&gt;The other route is chained and will take the previously prepared routing context and render the desired template using the &lt;a href=&quot;http://vertx.io/docs/vertx-web/java/#_templates&quot;&gt;handlebars template handler&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;p&gt;First we can handle various special requests path such as “/“ for the welcome page. Or the typical favicon.ico request. Other requests are passed to the Webroot API handler method.&lt;/p&gt;
+
+
+&lt;p&gt;Once the path has been resolved to a &lt;em&gt;WebRootResponse&lt;/em&gt; we can examine that data and determine whether it is a binary response or a JSON response. Binary responses may occur if the requested resource represents an image or any other binary data. Resolved binary contents are directly passed through to the client and the handlebars route is not invoked.&lt;/p&gt;
+&lt;p&gt;Examples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:3000/&quot;&gt;http://localhost:3000/&lt;/a&gt; → welcome.hbs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:3000/Automobiles&quot;&gt;http://localhost:3000/Automobiles&lt;/a&gt; → category → productList.hbs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:3000/Automobiles/Tesla%20Roadster&quot;&gt;http://localhost:3000/Automobiles/Tesla Roadster&lt;/a&gt; → vehicle → productDetail.hbs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:3000/Vehicle%20Images/tesla-roadster.jpg&quot;&gt;http://localhost:3000/Vehicle Images/tesla-roadster.jpg&lt;/a&gt; → binary passthru&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;JSON responses on the other hand are examined to determine the type of node which was located. A typical node response contains information about the schema used by the node. This will effectively determine the type of the located content (e.g.: category, vehicle).&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img class=&quot;img-responsive center-block&quot; src=&quot;http://vertx.io/assets/blog/vertx-mesh/mesh-schemas.jpg&quot; title=&quot;Mesh Schemas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The demo application serves different pages which correspond to the identified type.
+Take a look at the template sources within &lt;em&gt;src/main/resources/templates/&lt;/em&gt; if you are interested in the &lt;a href=&quot;http://handlebarsjs.com/&quot;&gt;handlebars syntax&lt;/a&gt;. 
+The templates in the example should cover most common cases.   &lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive center-block&quot; src=&quot;http://vertx.io/assets/blog/vertx-mesh/mesh-vertx-templates.jpg&quot; title=&quot;Handlebars Template Overview&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The Mesh REST Client library internally makes use of the &lt;a href=&quot;http://vertx.io/docs/vertx-core/java/#_creating_an_http_client&quot;&gt;Vert.x core HTTP client&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ReactiveX/RxJava&quot;&gt;RxJava&lt;/a&gt; is being used to handle these async requests. This way we can combine all asynchronously requested Gentics Mesh resources (breadcrumb, list of products) and add the loaded data into the routing context.&lt;/p&gt;
+&lt;p&gt;The Vert.x example server loads JSON content from the Gentics Mesh server. The &lt;em&gt;JsonObject&lt;/em&gt; is placed in the &lt;a href=&quot;https://github.com/jknack/handlebars.java&quot;&gt;handlebars&lt;/a&gt; render context and the template can access all nested fields within.&lt;/p&gt;
+&lt;p&gt;This way it is possible to resolve any field within the handlebars template.&lt;/p&gt;
+
+
+&lt;p&gt;That’s it! Finally, we can invoke mvn clean package in order to package our webserver. The &lt;a href=&quot;https://maven.apache.org/plugins/maven-shade-plugin/&quot;&gt;maven-shade-plugin&lt;/a&gt; will bundle everything and create an executable jar.&lt;/p&gt;
+&lt;h2 id=&quot;what-s-next-&quot;&gt;What’s next?&lt;/h2&gt;
+&lt;p&gt;Future releases of Gentics Mesh will refine the Mesh REST Client API and provide a &lt;a href=&quot;http://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; which will reduce the JSON overhead. Using GraphQL will also reduce the amount of requests which need to be issued.&lt;/p&gt;
+&lt;p&gt;Thanks for reading. If you have any futher questions or feedback don’t hesitate to send me a tweet to &lt;a href=&quot;https://twitter.com/Jotschi/&quot;&gt;@Jotschi&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/genticsmesh/&quot;&gt;@genticsmesh&lt;/a&gt;.&lt;/p&gt;
+&lt;/article&gt;</description>
+	<pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Wayne Beaton: Run Eclipse IDE on One Version of Java, but Target Another</title>
+	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=4746</guid>
+	<link>https://waynebeaton.wordpress.com/2017/03/10/run-eclipse-ide-on-one-version-of-java-but-target-another/</link>
+	<description>&lt;p&gt;The &lt;em&gt;Eclipse IDE for Java™ Developers&lt;/em&gt; (and the other &lt;em&gt;Java developer&lt;/em&gt; variants) is itself a Java application that’s used to build Java applications. That relationship can be a bit weird to wrap your brain around.&lt;/p&gt;
+&lt;p&gt;Written almost entirely in Java, the Eclipse IDE requires a &lt;em&gt;Java Runtime Environment (JRE)&lt;/em&gt; to run. A JRE provides just the runtime platform: it doesn’t include the source code and Javadoc for any of the base Java libraries, or any of the development tools that are included in the Java Development Kit (JDK). An Eclipse IDE runs just fine on a JRE.&lt;/p&gt;
+&lt;p&gt;If you’re building Java applications, however, you really need to have access to a JDK. By default, an Eclipse IDE will configure itself to build applications against the JRE that it was launched on. If that JRE is part of a JDK, then you’ll get access to all the goodies that you need to get useful content assist, documentation, debugging support, etc. If the runtime platform is just a JRE, then a lot of that valuable goodness will be missing (but compiling still works because the &lt;em&gt;Java development tools&lt;/em&gt; include the &lt;em&gt;Eclipse Compiler for Java&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Here’s where it gets a bit weird. You can run an Eclipse IDE on a JRE from one version of Java and build applications that target one or more different versions of Java. You can, for example, run your Eclipse IDE on Java 8, but use it to build applications based on basically any earlier version of Java. You can select the default Java version for your workspace in the preferences (on the &lt;em&gt;Java &amp;gt; Compiler&lt;/em&gt; page), or individually in the properties for each Java Project (preferred).&lt;/p&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot; id=&quot;attachment_4748&quot; style=&quot;width: 555px;&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;size-full wp-image-4748&quot; src=&quot;https://waynebeaton.files.wordpress.com/2017/03/screenshot-from-2017-03-10-13-18-42.png?w=640&quot; /&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;JDK Compliance settings in the Preferences (&lt;em&gt;Java &amp;gt; Compiler&lt;/em&gt;)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;In order to actually build applications on a different version of Java, you need to connect your Eclipse IDE with the corresponding JDK. To do this, first install the JDK, and then tell the Eclipse IDE where to find it via the &lt;em&gt;Java &amp;gt; Installed JREs&lt;/em&gt; page in the workspace preferences. With additional JDKs installed, you can configure individual projects to use specific versions of the compiler and runtime.&lt;/p&gt;
+&lt;p&gt;All of this is a long way of saying that you can &lt;a href=&quot;https://waynebeaton.wordpress.com/2017/03/02/eclipse-ide-oxygen-edition-and-java-9/&quot;&gt;configure your Eclipse IDE, Oxygen Edition milestone build to run on a &lt;em&gt;Java 9 JRE&lt;/em&gt;&lt;/a&gt;, (download a JDK from the &lt;a href=&quot;https://jdk9.java.net/jigsaw/&quot;&gt;JDK 9 Early Access&lt;/a&gt; site) but use it to build applications that target earlier versions of Java (i.e. keep doing your day job). Even doing just this and providing feedback will be very helpful to the Eclipse projects involved in the Eclipse IDE. If you actually want to build Java 9 applications, you’ll need to install the &lt;a href=&quot;https://marketplace.eclipse.org/content/java-9-support-beta-oxygen&quot;&gt;Java 9 Support (BETA) for Oxygen&lt;/a&gt; from the Eclipse Marketplace and provide &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=JDT&quot;&gt;feedback to the team&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Note that the JDT product in the Eclipse Foundation’s Bugzilla instance is specifically for reporting bugs that are directly related to the Java development tools. Use the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=EGit&quot;&gt;EGit product&lt;/a&gt; to report issues with the Git integration, the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=m2e&quot;&gt;m2e product&lt;/a&gt; to report issues with the Maven integration, the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Buildship&quot;&gt;Buildship product&lt;/a&gt; to report issues with the Gradle integration, the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Platform&quot;&gt;Platform product&lt;/a&gt; for issues with regard to the basic IDE framework, the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Web%20Tools&quot;&gt;Web Tools product&lt;/a&gt; for issues with enterprise Java and web development, or the &lt;a href=&quot;https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Platform&quot;&gt;EPP (Eclipse Packaging Project) product&lt;/a&gt; if you’re not sure.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Many committers from the various Eclipse projects that contribute to the Eclipse IDE, including at least a couple of committers from the Java development tools project in particular, will be at &lt;a href=&quot;http://devoxx.us&quot;&gt;Devoxx US&lt;/a&gt;. If you want to learn more about Java 9 support in the Eclipse IDE, you’ll be able to find them at the Eclipse Foundation’s booth (or we’ll be able to help you find them).&lt;/p&gt;
+&lt;p&gt;I’ll also be doing a demonstration of &lt;em&gt;Test First Java Development using the Eclipse IDE&lt;/em&gt; at the booth. Come by and see if I can keep myself within the twenty minute limit…&lt;/p&gt;
+&lt;p&gt;If you want to learn more about the great features available in the Eclipse IDE, follow &lt;a href=&quot;https://twitter.com/EclipseJavaIDE&quot;&gt;@EclipseJavaIDE&lt;/a&gt; on Twitter (&lt;a href=&quot;https://twitter.com/waynebeaton&quot;&gt;follow me&lt;/a&gt; while you’re at it).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://devoxx.us/&quot;&gt;&lt;img alt=&quot;devoxx_black_transparent400&quot; class=&quot;aligncenter&quot; src=&quot;https://waynebeaton.files.wordpress.com/2017/02/devoxx_black_transparent400.png?w=300&amp;amp;h=104&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/waynebeaton.wordpress.com/4746/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/waynebeaton.wordpress.com/4746/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=waynebeaton.wordpress.com&amp;amp;blog=19425814&amp;amp;post=4746&amp;amp;subd=waynebeaton&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 10 Mar 2017 19:05:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Last week | Complete the IoT Developer Survey 2017</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/jO_tm_QVRAg/iotsurvey2017eclipse</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/jO_tm_QVRAg/iotsurvey2017eclipse</link>
+	<description>Now's the time. Get your answers in and your voice heard! Complete the survey today.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/jO_tm_QVRAg&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 10 Mar 2017 17:25:00 +0000</pubDate>
+</item>
+<item>
+	<title>PapyrusUML: Papyrus-RT Beta?!</title>
+	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=548</guid>
+	<link>https://papyrusuml.wordpress.com/2017/03/09/papyrus-rt-beta/</link>
+	<description>&lt;p&gt;I just heard, through the minion grapevine, that there will be an official, managed beta for Papyrus for Real Time! Just like the ones for the big-boys commercial tools! I’m so proud of Me-RT!&lt;/p&gt;
+&lt;p&gt;The beta will be based on Papyrus-RT v0.9, which is planned for release on March 23 (aligned with Eclipse Neon.3), as reported in &lt;a href=&quot;https://papyrusuml.wordpress.com/2017/03/02/papyrus-rt-train-roadmap/&quot;&gt;Papyrus-RT Roadmap: follow the train&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is exciting! Users will be able to play with me, to give their opinions, to suggest improvements, and, basically, to help me get better!&lt;/p&gt;
+&lt;p&gt;I will get my product management/development minions to tell me more…and I will, of course, let you know!&lt;/p&gt;
+&lt;p&gt;Things are getting more and more interesting…&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://papyrusuml.wordpress.com/category/uncategorized/&quot;&gt;Uncategorized&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godelicious/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/delicious/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gofacebook/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/facebook/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gotwitter/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/twitter/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gostumble/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/stumble/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godigg/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/digg/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/goreddit/papyrusuml.wordpress.com/548/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/reddit/papyrusuml.wordpress.com/548/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=papyrusuml.wordpress.com&amp;amp;blog=72365150&amp;amp;post=548&amp;amp;subd=papyrusuml&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 09 Mar 2017 18:35:39 +0000</pubDate>
+</item>
+<item>
+	<title>Kichwa Coders: Visualizing Docker Containers in Eclipse Che with Weave Scope</title>
+	<guid isPermaLink="false">http://kichwacoders.com/?p=1396</guid>
+	<link>https://kichwacoders.com/2017/03/09/visualizing-docker-containers-in-eclipse-che-with-weave-scope/</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;7scope.png&quot; class=&quot;alignnone size-full wp-image-1550&quot; src=&quot;https://kichwacoders.files.wordpress.com/2017/03/7scope.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Last Thursday, at the London PaaS User Group (&lt;a href=&quot;https://www.meetup.com/London-PaaS-User-Group-LOPUG/&quot; target=&quot;_blank&quot;&gt;LOPUG&lt;/a&gt;) meetup and heard the best type of technical talk: the kind that immediately inspires you to try out the technology you’ve just learnt about. &lt;a href=&quot;https://twitter.com/st3v&quot; target=&quot;_blank&quot;&gt;Stev Witzel&lt;/a&gt; showed a demo of a mash-up of Cloud Foundry tools (BOSH) with Weave Scope, an open source tool for visualizing, managing and monitoring containers. In the demo, Weave Scope provided a very slick visualization of the individual components and apps running on the Cloud Foundry platform and instantly gave me a deeper comprehension of the complex system.&lt;/p&gt;
+&lt;div class=&quot;embed-twitter&quot;&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
+&lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;Very very cool, &lt;a href=&quot;https://twitter.com/st3v&quot;&gt;@st3v&lt;/a&gt; shows &lt;a href=&quot;https://twitter.com/cloudfoundry&quot;&gt;@cloudfoundry&lt;/a&gt; meets &lt;a href=&quot;https://twitter.com/weaveworks&quot;&gt;@weaveworks&lt;/a&gt; scope and &quot;we can see what cloudfoundry looks like for the first time&quot; at &lt;a href=&quot;https://twitter.com/LOPUG&quot;&gt;@lopug&lt;/a&gt; &lt;a href=&quot;https://t.co/ItfaVA2Lz6&quot;&gt;pic.twitter.com/ItfaVA2Lz6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;— Luke Marsden (@lmarsden) &lt;a href=&quot;https://twitter.com/lmarsden/status/837392795061075968&quot;&gt;March 2, 2017&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;I was keen to try out Weave Scope so asked myself “&lt;em&gt;Can I quickly and easily use WeaveScope to visualise the Docker containers in Eclipse Che?&lt;/em&gt;”&lt;/p&gt;
+&lt;p&gt;The answer was a resounding yes! First of all the Weave Works &lt;a href=&quot;https://www.weave.works/docs/&quot; target=&quot;_blank&quot;&gt;documentation&lt;/a&gt; is terrific (note to self: guides with &lt;a href=&quot;https://www.katacoda.com/&quot; target=&quot;_blank&quot;&gt;Katacoda&lt;/a&gt; are my new gold standard for documentation). I found this  &lt;a href=&quot;https://www.weave.works/guides/monitor-docker-containers/&quot; target=&quot;_blank&quot;&gt;getting started article&lt;/a&gt; which I could adapt for my use-case. Given I already had Che installed &amp;amp; running on my Windows 10 laptop, installing &amp;amp; running Weave Scope was straightforward.&lt;/p&gt;
+&lt;pre class=&quot;brush: bash; title: ; notranslate&quot;&gt;docker-machine ssh default
+sudo wget -O /usr/local/bin/scope \
+   https://github.com/weaveworks/scope/releases/download/latest_release/scope
+sudo chmod a+x /usr/local/bin/scope
+sudo scope launch
+&lt;/pre&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;To my pure joy and delight, it JUST WORKED!!&lt;/p&gt;
+&lt;p&gt;In one browser I had Eclipse Che up and running, I created a few different workspaces&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;2scope&quot; class=&quot;alignnone size-full wp-image-1498&quot; src=&quot;https://kichwacoders.files.wordpress.com/2017/03/2scope.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In a separate browser I had Weave Scope running.  As I created workspaces in Che, I would see them automagically appear in the scope tool.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;1scope.png&quot; class=&quot;alignnone size-full wp-image-1500&quot; src=&quot;https://kichwacoders.files.wordpress.com/2017/03/1scope.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Incidentally, when I first started working with Che it took me a while to understand each Eclipse Che workspace is a separate Docker container, but with this visualisation the understanding is immediate. Weave Scope is a great tool for those new to the technologies to quickly grasp some key concepts.&lt;/p&gt;
+&lt;p&gt;I love, love, love visual representations of systems; it’s a more natural way to quickly gain insights into a system, not to mention commit things to memory in the imagery part of my brain. Weave Scope let’s you monitor CPU usage:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;3scope.png&quot; class=&quot;alignnone size-full wp-image-1520&quot; src=&quot;https://kichwacoders.files.wordpress.com/2017/03/3scope.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can also monitor memory usage as workspaces loaded up:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;4scope.png&quot; class=&quot;alignnone size-full wp-image-1523&quot; src=&quot;https://kichwacoders.files.wordpress.com/2017/03/4scope.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Plus it has a nice way to inspect containers, even attach or exec a shell on them:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;5scope.png&quot; class=&quot;alignnone size-full wp-image-1526&quot; src=&quot;https://kichwacoders.files.wordpress.com/2017/03/5scope.png?w=840&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In this case the system is relatively small and everything is running locally. However, I can easily see how it would be really useful to use Weave Scope when you want to troubleshoot Eclipse Che running in a production environment in the cloud by comparing it with a system running on a local development machine.&lt;/p&gt;
+&lt;p&gt;Weave Scope is &lt;a href=&quot;https://github.com/weaveworks/scope&quot; target=&quot;_blank&quot;&gt;open source&lt;/a&gt;, licensed under Apache-2.0.&lt;/p&gt;
+&lt;h2&gt;Key Takeaways&lt;/h2&gt;
+&lt;p&gt;Weave Scope is a great, slick, open source tool for visualizing &amp;amp; monitoring containers and is really super simple to get started with and use.&lt;/p&gt;
+&lt;p&gt;Eclipse Che, based on the ubiquitous Docker containers, allows leveraging of a whole world of awesome container-related technology, including the Weave Scope visualisation tool.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/kichwacoders.wordpress.com/1396/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/kichwacoders.wordpress.com/1396/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=kichwacoders.com&amp;amp;blog=68353182&amp;amp;post=1396&amp;amp;subd=kichwacoders&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 09 Mar 2017 12:20:41 +0000</pubDate>
+</item>
+<item>
+	<title>Geniutec: Darkest Dark – Making it to the 4th most popular plugin in 30 Days</title>
+	<guid isPermaLink="false">https://www.genuitec.com/?p=514615</guid>
+	<link>https://www.genuitec.com/darkest-dark-popular-plugin/</link>
+	<description>&lt;p&gt;TL;DR Hit the market need, engage with users, and a lot of blood + sweat.The genesis.In short, we were tired of Eclipse looking stagnant. While other “cool” IDEs and Editors have built up their markets, Eclipse has looked about the same for the last decade. Many love that stability, but many others are ready for change. […]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.genuitec.com/darkest-dark-popular-plugin/&quot; rel=&quot;nofollow&quot;&gt;Darkest Dark – Making it to the 4th most popular plugin in 30 Days&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.genuitec.com&quot; rel=&quot;nofollow&quot;&gt;Genuitec&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Tue, 07 Mar 2017 15:27:10 +0000</pubDate>
+</item>
+<item>
+	<title>Mikael Barbero: I’m going to Devoxx US, and you should go as well!</title>
+	<guid isPermaLink="false">https://medium.com/p/1af00158c0e2</guid>
+	<link>https://medium.com/@mikael.barbero/going-to-devoxx-us-and-you-should-go-as-well-1af00158c0e2?source=rss-4a3bd8487ad8------2</link>
+	<description>&lt;p&gt;For the very first time, a Devoxx conference is happening in the &lt;a href=&quot;http://devoxx.us&quot;&gt;USA, in San Jose, CA&lt;/a&gt;. It starts on &lt;strong&gt;March 21, 2017&lt;/strong&gt; and is 3 days long. Devoxx conferences are famous in Europe (organized in &lt;a href=&quot;https://devoxx.be&quot;&gt;Belgium&lt;/a&gt;, &lt;a href=&quot;https://devoxx.fr&quot;&gt;France&lt;/a&gt;, &lt;a href=&quot;http://www.devoxx.co.uk&quot;&gt;UK&lt;/a&gt;, &lt;a href=&quot;http://devoxx.pl&quot;&gt;Poland&lt;/a&gt; and &lt;a href=&quot;http://devoxx.ma/&quot;&gt;Morocco&lt;/a&gt;) for their high quality talks from amazing speakers. They are also very high rated because it is organized &lt;strong&gt;by developers for developers&lt;/strong&gt;. Talks are all highly technical and the required experience from the targeted audience ranges from beginners to experts. So, with more than 200 sessions (chosen from 750 submissions!), everyone is able to craft its very own personal conference schedule. Do not trust me, &lt;a href=&quot;http://cfp.devoxx.us/2017/talks&quot;&gt;check the program&lt;/a&gt; by yourself!&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*CaXFUNb2_scHuvarVT4eAw.jpeg&quot; /&gt;&lt;a href=&quot;https://www.flickr.com/photos/bejug/22947350265/in/album-72157658768130493/&quot;&gt;https://www.flickr.com/photos/bejug/22947350265/in/album-72157658768130493/&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;And don’t be afraid if you miss a talk because you’ve met this incredible programer your were looking for to talk about this pull request of yours. All sessions are recorded and they are published on the &lt;a href=&quot;https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg&quot;&gt;Devoxx YouTube channel&lt;/a&gt; shortly after the event. Devoxx conferences are also about networking and hacking, so everything is done to let you embrace the experience!&lt;/p&gt;&lt;p&gt;Here is my personal selection of talks. I know I won’t be able to attend to all of them, but it shows the wide variety of topics you can learn about by coming to Devoxx US.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/TPA-9716/5_JVM_Languages_in_50_minutes&quot;&gt;5 JVM Languages in 50 minutes&lt;/a&gt; by Joe Kutner. A crash course about Clojure, Scala, JRuby, Groovy and Kotlin. I wish Ceylon was cited instead of JRuby ;)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/WLQ-7821/Deep_learning_with_tensorflow_for_multi-scale_modeling_of_cancer_patients&quot;&gt;Deep learning with tensorflow for multi-scale modeling of cancer patients&lt;/a&gt; by Olivier Gevaert&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/QKL-2419/Rust_for_Java_developers&quot;&gt;Rust for Java developers&lt;/a&gt; by Hanneli Tavante&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/YZQ-4043/your_next_JVM:_Panama,_Valhalla,_Metropolis&quot;&gt;your next JVM: Panama, Valhalla, Metropolis&lt;/a&gt; by Jon Rose&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/VUB-9615/New_Computer_Architectures_:_Explore_Quantum_Computers_&amp;amp;_SyNAPSE_neuromorphic_chips&quot;&gt;New Computer Architectures : Explore Quantum Computers &amp;amp; SyNAPSE neuromorphic chips&lt;/a&gt; by Peter Wagget&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/FLS-8924/55_New_Features_In_JDK_9&quot;&gt;55 New Features In JDK 9&lt;/a&gt; by Simon Ritter&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/AGA-7288/Architecting_for_Failures_in_Microservices:_Patterns_and_Lessons_Learned&quot;&gt;Architecting for Failures in Microservices: Patterns and Lessons Learned &lt;/a&gt;by Bhakti Mehta&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/RNK-9521/Developing_Java_Applications_with_the_Eclipse_IDE,_Neon_Edition&quot;&gt;Developing Java Applications with the Eclipse IDE, Neon Edition&lt;/a&gt; by Wayne Beaton and Gunnar Wagenknecht&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/MWF-9136/The_hardest_part_of_microservices:_your_data&quot;&gt;The hardest part of microservices: your data&lt;/a&gt; by Christian Posta&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/MNS-9892/gRPC_101_for_Java_Developers_-_building_fast_and_efficient_microservices&quot;&gt;gRPC 101 for Java Developers — building fast and efficient microservices&lt;/a&gt; by Ray Tsang&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/VPN-6094/Developing_for_the_Rest_of_the_World&quot;&gt;Developing for the Rest of the World&lt;/a&gt; by Eric Frohnhoefer&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/TMV-3761/Docker_Swarm_or_Kubernetes_–_Pick_your_framework!_&quot;&gt;Docker Swarm or Kubernetes — Pick your framework!&lt;/a&gt; by Arun Gupta&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/BJF-4911/The_Rise_of_Cloud_Development_-_The_Growth_and_Future_of_Eclipse_Che_-_Next_Generation_Eclipse_IDE&quot;&gt;The Rise of Cloud Development — The Growth and Future of Eclipse Che — Next Generation Eclipse IDE&lt;/a&gt; by Tyler Jewell&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://cfp.devoxx.us/2017/talk/ZPD-0169/Eclipse_Platform_News_-_The_return_of_the_IDE&quot;&gt;Eclipse Platform News — The return of the IDE&lt;/a&gt; by Lars Vogel&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;What are you waiting for? Devoxx US starts in two weeks now! Go to the &lt;a href=&quot;https://devoxx.us/registration/&quot;&gt;&lt;strong&gt;registration page&lt;/strong&gt;&lt;/a&gt; and get a pass now! If you’re not from the Valley, have a look at &lt;a href=&quot;https://devoxx.us/lodging/&quot;&gt;San Jose hotels with group rates&lt;/a&gt; for Devoxx US.&lt;/p&gt;&lt;a href=&quot;https://medium.com/media/d4088dceb31553b807dc2a5f2da7bb31/href&quot;&gt;https://medium.com/media/d4088dceb31553b807dc2a5f2da7bb31/href&lt;/a&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/260/1*jMC511AQVK7Ct6A6Usk6FQ.png&quot; /&gt;&lt;/figure&gt;&lt;p&gt;On &lt;strong&gt;Monday, March 20, 2017 an Eclipse dedicated event &lt;/strong&gt;is co-located with Devoxx US. If you want to know everything happening in the Eclipse ecosystem, join us for &lt;a href=&quot;https://www.eclipseconverge.org/na2017/&quot;&gt;&lt;strong&gt;Eclipse Converge 2017&lt;/strong&gt;&lt;/a&gt; (special rates apply for combined Devoxx US + Eclipse Converge passes).&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=1af00158c0e2&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 07 Mar 2017 15:13:50 +0000</pubDate>
+</item>
+<item>
+	<title>Mikael Barbero: Moving from Tumblr to Medium</title>
+	<guid isPermaLink="true">https://mikael-barbero.tumblr.com/post/158106143310</guid>
+	<link>https://mikael-barbero.tumblr.com/post/158106143310</link>
+	<description>&lt;p&gt;Hey, this blog has moved. No new contents will be added here. Please see &lt;a href=&quot;https://medium.com/@mikael.barbero&quot;&gt;https://medium.com/@mikael.barbero&lt;/a&gt; for new contents. Note that articles from this blog have also been imported into Medium.&lt;/p&gt;</description>
+	<pubDate>Tue, 07 Mar 2017 11:49:46 +0000</pubDate>
+</item>
+<item>
+	<title>Mikael Barbero: RFPs for new Friends of Eclipse Enhancement Program (FEEP) projects posted</title>
+	<guid isPermaLink="false">https://medium.com/p/e957f853cbc9</guid>
+	<link>https://medium.com/@mikael.barbero/rfps-for-new-friends-of-eclipse-enhancement-program-feep-projects-posted-e957f853cbc9?source=rss-4a3bd8487ad8------2</link>
+	<description>&lt;p&gt;The Eclipse Foundation is actively seeking bids on &lt;strong&gt;10 new &lt;/strong&gt;&lt;a href=&quot;https://eclipse.org/contribute/dev_program.php&quot;&gt;&lt;strong&gt;FEEP&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; Development Efforts&lt;/strong&gt;, along with 5 outstanding Development Efforts that have not yet been bid. The objective is to have this work completed in the 1st quarter of 2017.&lt;/p&gt;&lt;p&gt;Please see the &lt;a href=&quot;https://projects.eclipse.org/development-efforts&quot;&gt;list of development efforts&lt;/a&gt;, and &lt;strong&gt;submit your bids before December 23, 2016&lt;/strong&gt;. See the &lt;a href=&quot;https://eclipse.org/contribute/dev_program/faq.php&quot;&gt;FAQ for the bidding process&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This list has been crafted based on the feedbacks of the Eclipse PMC and the Eclipse Architecture council members. It also gathered some of the most wanted bugs on the bugzilla (i.e. the bugs with the highest number of votes).&lt;/p&gt;&lt;p&gt;As a reminder, the &lt;a href=&quot;https://eclipse.org/contribute/dev_program.php&quot;&gt;FEEP program&lt;/a&gt; uses the funds donated to the Eclipse Foundation to make direct improvements and enhancements to the Eclipse IDE/Platform.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Originally published at &lt;/em&gt;&lt;a href=&quot;https://mikael-barbero.tumblr.com/post/154241861340/rfps-for-new-friends-of-eclipse-enhancement&quot;&gt;&lt;em&gt;mikael-barbero.tumblr.com&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=e957f853cbc9&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 07 Mar 2017 11:25:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mikael Barbero: EclipseConverge 2017 Submissions are open</title>
+	<guid isPermaLink="false">https://medium.com/p/6dfa773f0334</guid>
+	<link>https://medium.com/@mikael.barbero/eclipseconverge-2017-submissions-are-open-6dfa773f0334?source=rss-4a3bd8487ad8------2</link>
+	<description>&lt;p&gt;The call for papers for &lt;a href=&quot;https://www.eclipseconverge.org/na2017/&quot;&gt;EclipseConverge 2017&lt;/a&gt; is open. It is the first step toward what ought to be another great Eclipse event. For those who may not know, Eclipse Converge is a new event for the Eclipse community. It is a one-day summit dedicated exclusively to Eclipse technologies, with the goal of allowing our North American developer community to meet and share ideas.&lt;/p&gt;&lt;p&gt;As you may know, I am leading the program committee this year as program chair. We worked hard to make the best call for papers we possibly could. We designed the tracks carefully so that anyone near or far from the core Eclipse community will feel welcome to submit a speaking proposal about all the inspiring, innovative and interesting stuff they are doing in or with Eclipse. By the way, you can see us on the &lt;a href=&quot;https://www.eclipseconverge.org/na2017/programcommittee&quot;&gt;PC page&lt;/a&gt; and contact us anytime via &lt;a href=&quot;http://info@eclipsecon.org&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This year, we will have four tracks:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Eclipse Platforms &amp;amp; Runtimes&lt;/strong&gt;. Eclipse is an IDE and also a host for a lot of great open-source runtime technologies such as Equinox, RAP, RCP, and the Eclipse 4 Application Platform. New technologies from the vibrant Eclipse ecosystem as well as state-of-the-union talks go here.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Languages &amp;amp; Tools&lt;/strong&gt;. There are countless plugins and tools based on Eclipse to support developers in their daily work. Tell us about the best ones built on Eclipse, how you have built them, and/or what technologies they&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Web &amp;amp; Cloud&lt;/strong&gt;. If you are implementing Web / JEE applications or want to share your experience with modern web frameworks such as AngularJS, Vaadin, or JSON Forms, your talk goes here. This is also the track for talks about cloud development and operation tools at Eclipse such as Orion, Che, Flux, Dirigible, or other ways to move tooling to the cloud, such as browser-based UIs for developer tools and next-generation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Other Cool Stuff&lt;/strong&gt;. Not everything will fit easily into one of these tracks. If your talk is one that’s hard to categorize, submit it here!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The submission deadline is &lt;strong&gt;December 12, 2016, at 11:59 PM PST&lt;/strong&gt;. There’s no time for procrastination! Go ahead and &lt;a href=&quot;https://www.eclipseconverge.org/na2017/propose-session&quot;&gt;submit yours now&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Originally published at &lt;/em&gt;&lt;a href=&quot;https://mikael-barbero.tumblr.com/post/153209914535/eclipseconverge-2017-submissions-are-open&quot;&gt;&lt;em&gt;mikael-barbero.tumblr.com&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=6dfa773f0334&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 07 Mar 2017 11:22:33 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

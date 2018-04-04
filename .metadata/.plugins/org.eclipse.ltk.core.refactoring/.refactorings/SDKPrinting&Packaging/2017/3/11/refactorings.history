@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;application.ChemicalProperties&apos; to &apos;ChemicalProperty&apos;&#x0D;&#x0A;- Original project: &apos;SDKPrinting&amp;Packaging&apos;&#x0D;&#x0A;- Original element: &apos;application.ChemicalProperties&apos;&#x0D;&#x0A;- Renamed element: &apos;application.ChemicalProperty&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ChemicalProperties&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;application{ChemicalProperties.java[ChemicalProperties" matchStrategy="1" name="ChemicalProperty" qualified="false" references="true" similarDeclarations="false" stamp="1489598958348" textual="false" version="1.0"/>
+</session>
